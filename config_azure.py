@@ -2,12 +2,14 @@
 
 HUGGING_CACHE = "/home/azureuser/cloudfiles/code//hugging_cache"
 
+chat_amsterdam_pilot_folder = "/home/azureuser/cloudfiles/code/blobfuse/generative_ai/chat_amsterdam/raw_data/pilot_prompts/"
+
 # Main folders
-in_folder = "/home/azureuser/cloudfiles/code/blobfuse/raadsinformatie"
-out_folder = "/home/azureuser/cloudfiles/code/blobfuse/raadsinformatie/processed_data/woo_qa"
+raadsinformatie_in_folder = "/home/azureuser/cloudfiles/code/blobfuse/raadsinformatie"
+raadsinformatie_out_folder = "/home/azureuser/cloudfiles/code/blobfuse/raadsinformatie/processed_data/woo_qa"
 
 woo_sources = {
-    "raadsinformatie": f"{in_folder}/raadsinformatie/search_results/woo_queries/",
-    "openamsterdam": f"{in_folder}/open.amsterdam/woo_queries/",
-    "amsterdam.nl": f"{in_folder}/amsterdam.nl/",
+    "raadsinformatie": f"{raadsinformatie_in_folder}/raadsinformatie/search_results/woo_queries/manual/",
+    "openamsterdam": f"{raadsinformatie_in_folder}/open.amsterdam/woo_queries/",
+    "amsterdam.nl": f"{raadsinformatie_in_folder}/amsterdam.nl/",
 }
