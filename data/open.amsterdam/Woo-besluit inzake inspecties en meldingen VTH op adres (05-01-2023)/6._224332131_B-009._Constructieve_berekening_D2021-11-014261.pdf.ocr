@@ -1,0 +1,1906 @@
+CONS
+Leds
+TIEF
+Keizersgracht 182
+1016 DW Amsterdam
++31[0]20-588 09 6ú
+E: info®ir-groep.nl
+ERA www.deingenieursgroep.nl
+Project verbouwing bovenhuizen
+Opdrachtgever JEE Vastgoed BV
+Architect LINQ vastgoed adviseurs
+Onderdeel Statische berekening
+Projectnummer 210936
+Datum 4 november 2021
+Aantal pagina’s 51
+Opgesteld door ir. nn " mn ….
+Gecontroleerd door B . mn
+ee [en EE
+De Ingenieursgroep is ingeschreven bij de Kamer van Op al onze werkzaamheden zijn van toepassing de DNR2011,
+Koophandel te Amsterdam onder nummer 60020040 EENES gedeponeerd ter griffie van de rechtbank Amsterdam
+Projectnummer 210936 if
+Revisie
+INHOUDSOPGAVE
+1 __ Algemene gegevens …..….….…...….nnnneneneneerenenenseenne neren enen ee reneneee ee enen eenen neenen enne eenen eenen eenen Ô
+1.1 Projeetbeschrijving … nnen ene eeeneeeeeenenennene nennen en eneenennne enen enenenneneen enen ee eenden Ó
+1.2 Geldende voorschriften … nnn ennen enneneenennneneen ennen ennnneenenneneeneneeneenennene nennen Ô
+1.2.1 Brandwerendheid … … nnen eneen eeneeerenenneeren eneen enenveer eneen en enenveenenenenen eneen nnen Â
+1,3 Gevolgklasse, betrouwbaarheidsklasse en belastingfactoren … … nn nnen ereen Ö
+1.3.1 _Rekenwaarden van belastingen (STR/GEO) (Groep B) … … nnen Ö
+1.3.2 Rekenwaarden van belastingen bruikbaarheidsgrenstoestand … nne 9
+1,4 Materialen … … nennen oeneeeneenverenennverenenneerenenenverenenneeeenennverenennverenveneeeenennevervenneeernennenn 1Û
+1.4.1 Staal... nnen enneerenenneeren ennen eenenne ern enenveer eneen evenveerenenve nennen eneen ennen 1
+1.4.2 Hout... enne nneenneennensen even enveennenvenennennenveenneenvenveeenveeneenneennvennenennenenn 1Û
+1.4.8 Metselwerk …… nennen eenveren eneen eneen venne eren enne ere nennen eneen ene vennen enenne nennen 1
+1.5 Bijbehorende documenten … nnen eneen eereneneneeneve veen eerenenenne venen ÌÎ
+1.5.1 Tekeningen constructief … … oneens enneenneneeeenenenneenseeere enen enneneneeeen evene |]
+1.5.2 Tekeningen bouwkundig … nonnen ens enneeneeneneenenenneenenne eenen ennen neren 1]
+2 Overzicht belastingen … … nnn nnee ennen enne eeen ennen eerrenne eeen enneenennneenenen eeen Î
+21 Algemeen ….……..…...nnn eneen enen eeneneneeeen enen enneennee eenen enenenenve nennen enen eende ereen enenseenne eneen 12
+2,2 Windbelasting … … …… nennen enneereneneerenenneeveervenveeenennverrnennverenenneeerrveneeervenne nerven 1À
+3 _Houteonstructie …… nonnen neneneeneeneeeeneeneeenenneverr venen eeen ennn eernennnveenenneenveernveeenenenveenennn vennen 1D
+3.1 Dakbalklaag dakkapel … …… nnn unseren enne vereneenveren ennen ennverenenveeeenenneeevenenne nennen 1D
+3.2 Balklaag dakterras zolderverdieping … … nnen oenen eenverenennverenenneereneeeneeevenneeernennenn Îf
+3.3 Balklaag dakterras 3° verdieping .… … nnn eneen eenvereneenveren ennen enennee nennen 19
+3.4 Verankering baluster … …… nnen enneerenenneeerenenneeren ennen en ennveeenenveeeenenneeeevennnne nennen ÈÍ
+4 _Staalconstructie…… … nennen eneen en eeneeeeneeneeer evene eeen enne eeeneneneeen ennen eenen venen vennen ÔÔ
+41 Doorbraak tussenmuur voorzijde …… … nnee ennen eenverenenneerenenneneenenneeeenenneeerneneenn Ô
+4,2 Doorbraak achtergevel …… … nnn onnener oneens enne eereneenvenenenneeenennverenennverenenneeervennnneeneneene OO
+2
+Projectnummer 210936 | if
+Revisie
+1 ALGEMENE GEGEVENS
+1.1 _Projectbeschrijving
+Dit rapport behandelt de constructieve berekening voor de verbouwing van de bovenste verdiepingen
+aan de N- Amsterdam. Behandeld worden:
+-__ Diverse doorbraken in de tussenmuren
+-__ Doorbraken in de achtergevel
+- Dakkapel zijdak
+- Twee dakterrassen.
+5 AAE ik Fo En Aat; k
+| |
+| |
+Í TE Le
+jk EE MTN en
+| vadran H rk 1 |
+| B
+id kee
+| H # rcr he
+à PI
+5 ee
+| makende I la mend |
+|R mn |
+boerred. ___
+a Me Te TEN veer, |
+sl LL ip SE Tl
+ei MU he | Kan | |
+EN eN
+i| E/ml
+EF IEEe
+ï RE i—i ef
+5 a trie
+R-7 OS ne
+8 Ë EED |
+ä iik id EI
+Od | Ei
+| 1 le . í
+| | Hi el de D
+Lj} í |
+| {LE Beel}
+| H ” En |
+| EE, |
+3 and 1 ee |
+“a | rm jj |
+5 | | varbljenimie
+| / |
+Ï |
+| 1 |
+| ii
+B En
+| | |
+I Ad I
+2° verdieping nieuwe situatie
+de ingenieursgroep
+3
+oee nn
+Projectnummer 210936 | lj
+Revisie
+|
+N |
+e nnn ns: ash |
+| vie den Ld
+lm Wd
+Ld aleen reen
+| hl orden EO en boeg
+| Ll dakterras Meur Blin
+Hi kl ene erdee Lr
+| Ì verblijsrukrie EJ Et 8
+AT el Hi en „71
+| u Ff Í nr l
+- np ke | 4 1
+5 Benet Ì W Ì
+| 25
+| ĳ |
+\ | if _ IK
+3 En | ed Me | Ik | |
+HEER |
+ï En En ii d
+| É | 2 _ |
+NY el |
+r AN gn | sr Tdh IN” hd e wr |
+4 EN Dd | Sd
++ G | Vm ann nn | EET en
+3 Frl el ie
+=| « E han, ei LLL
+5 | Je % EEFT
+Er Ĳ AH Tak
+8 | ZN RE AT Es IL
+2 aM /I| f AET UT
+é nnn ET TLE |
+À ETL ella} Tj Ì
+| 4 LETH mm |
+1 a Li |
+| LI Í =
+| Hij OD IEeël |+|
+&
+| Hi ir meteen onee, 7E ded |
+wemmel A7 808T
+| H > Jar, |
+| Ii AEM 1. AEM SET |
+- EN en |
+a | maten | ee nt
+nis z | curdoar, cg 1 |
+n omeen || werskferdeen
+i I 1 ka |
+HI
+| 1 |
+| 1 |
+LI
+| 1 |
+LI
+| Ii |
+1
+LI |
+ern" Li ve den |
+| |
+| asf I
+3° verdieping nieuwe situatie
+de ingenieursgroep
+4
+Projectnummer 210936 | if
+Revisie
++ IFD
+Pi DH Sn.
+IJ Zalderverdleping Ë N Eerde
+4 woorsaknie Ki } amban belsen
+£ . 2 dere
++ ten 2 wil il E
+EEE EE EEE EEL EEE EE gg Nl
+Kee N=
+B 3520 _ e Jen Sl
+men B 8 Fi
+Bs " „7
+a B weg marken Derde werd, El ee mente
+„>R El en cd 5 LS mer
+ien SE 4 5 Pe in +
+Ä Pa an Pi Te, danae conden ä enden mer
+gl B Pe mil ik Hi | RETE E | Gak
+ad EE | IEEE
+MM | Ì
+Em E10 Al
+ie 8 zn hf
+Pan ki \/
+"lr "B EEE Tweede verdieping B Y
+8 eenn woemshrie zl
+ze En masker FA Y
+HE 7 Van mm Ö 7 = alandrlesremen
+« EOSO il } „Ant ha zl / \ Sl en
+” @ Re EE ERE
+Lj |
+aad.
+get aanf
+Eerste verdleping riet ET skend
+wuervelnie anad H
+2 indeling nie! U
+EEE |
+7 kn IT LILLI Lr
+ol
+verk aanvr [mmm
+8 Belete aol en bel NV
+peli=0 ; IN
+LIL IR
+5 7 PO el h |
+a
+Langsdoorsnede nieuwe situatie
+de ingenieursgroep
+5
+Projectnummer 210936 | | Û
+Revisie
+1.2 Geldende voorschriften
+Eurocode 0: Grondslagen
+NEN-EN 1990 Grondslagen van het constructief ontwerp
+Eurocode 1: Belastingen op constructies
+NEN-EN 1991-1-1 Volumieke gewichten, eigen gewicht, opgelegde belastingen
+NEN-EN 1991-1-2 Belastingen bij brand
+NEN-EN 1991-1-3 Sneeuwbelastingen
+NEN-EN 1991-1-4 Windbelastingen
+NEN-EN 1991-1-5 Thermische belastingen
+NEN-EN 1991-1-7 Buitengewone belastingen
+Eurocode 2: Betonconstructies
+NEN-EN 1992-1-1 Algemene regels en regels voor gebouwen
+NEN-EN 1992-1-2 Ontwerp en berekening van betonconstructies bij brand
+Eurocode 3: Staalconstructies
+NEN-EN 1993-1-1 Algemene regels en regels voor gebouwen
+NEN-EN 1993-1-2 Staalconstructies bij brand
+Eurocode 4: Staal- betonconstructies
+NEN-EN 1994-1-1 Algemene regels en regels voor gebouwen
+NEN-EN 1994-1-2 Staal- betonconstructies bij brand
+Eurocode 5: Houtconstructies
+NEN-EN 1995-1-1 Algemene regels en regels voor gebouwen
+NEN-EN 1995-1-2 Houtconstructies bij brand
+Eurocode 6: Constructies van metselwerk
+NEN-EN 1996-1-1 Algemene regels voor constructies van gewapend en ongewapend
+metselwerk
+NEN-EN 1996-1-2 Ontwerp en berekening van metselwerkconstructies bij brand
+Eurocode 7: Geotechnisch ontwerp
+NEN-EN 1997-1 Algemene regels
+Bestaande bouw
+NEN 8700 Grondslagen voor de beoordeling van de constructieve veiligheid van een
+bestaand bouwwerk
+Bij alle voorschriften worden de laatste versies van de Nationale Bijlage (NB) gehanteerd.
+de ingenieursgroep
+6
+Project nn
+Projectnummer 210936 | | Û
+Revisie
+1.2.1 _ Brandwerendheid
+Voor het in stand houden van de rookvrije vluchtroutes geldt een minimale eis aan de constructie van
+30 min.
+De door het bouwbesluit gestelde minimale eisen aan de hoofddraagconstructie zijn:
+hoogste vloer met een verblijfsgebied : 13.5 m
+functie : Wonen
+reductie toegestaan? : Nee
+Brandwerendheid (hoofddraagconstructie) : 60 min (bestaande bouw)
+Deze brandwerendheid wordt bereikt door de constructie brandwerend te omkleden / schilderen /
+betongevulde profielen (met wapening) toe te passen.
+In brandwerende scheidingen toegepaste constructie onderdelen dienen minimaal een
+brandwerendheid te hebben die overeenkomt met de eisen gesteld aan deze brandwerende
+scheiding.
+
+de ingenieursgroep
+
+7
+Projectnummer 210936 | | Û
+Revisie
+1.3 _Gevolgklasse, betrouwbaarheidsklasse en belastingfactoren
+Ontwerplevensduur 50 jaar
+Ontwerplevensduurklasse 3
+Gevolgklasse CC2
+Betrouwbaarheidsklasse RC2
+Belastingcategorieën en W-factoren
+Voorgeschreven belastingen in gebouwen, categorie
+Categorie A: woon- en verblijfsruimtes 0,4 0,5 0,3
+Categorie B: kantoorruimtes 0,5 0,5 0,3
+Categorie C: bijeenkomstruimtes 0,6/0,4 0,7 0,6
+Categorie D: winkelfuncties 0,4 0,7 0,6
+Categorie E: opslagruimtes 1,0 0,9 0,8
+Categorie F: verkeersruimte, voertuiggewicht < 30 kN 0,7 0,7 0,6
+Categorie G: verkeersruimte, 30 kN < voertuiggewicht < 160 kN 0,7 0,5 0,3
+Categorie H: Daken 0 0 0
+nl
+EEE
+en
+1.3.1 _Rekenwaarden van belastingen (STR/GEO) (Groep B)
+Blijvende en Blijvende belastingen Overheersend Veranderlijke belastingen gelijktijdig
+tijdelijke veranderlijke
+ontwerpsituaties Ongunstig Gunstig belasting Belangrijkste Andere
+(verg. 6.10a) 1,35 Giysup 0,9 Gig,int 1,5 Wo Os
+(verg. 6.10.b) 1,2 Gigsup 0,9 Gig,int 1,5 Qs 1,5 Wo, Qi
+8
+Projectnummer 210936 | | Û
+Revisie
+1.3.2 _Rekenwaarden van belastingen bruikbaarheidsgrenstoestand
+
+Combinatie Blijvende belastingen Veranderlijke belastingen
+
+Ongunstig Gunstig Overheersende Andere
+karakteristiek 1,0 Gigsup 1,0 Giginf 1,0 Qs 1,0 W oi Ori
+de ingenieursgroep
+9
+Projectnummer 210936 | | Û
+Revisie
+1.4 Materialen
+1.4.1 Staal
+
+Staalkwaliteit IPE, HE-profielen : S235JRG2
+
+Staalkwaliteit buizen gelast : _S355JRH
+
+warmgewalst : S355J2H
+Staalkwaliteit kokers koudgevormd : _S275J0OH
+warmgewalst : S275J2H
+
+Staalkwaliteit geïntegreerde liggers : S355J2G3
+
+Boutkwaliteit ‚ 88 Thermisch verzinkt
+
+Ankerkwaliteit : 4,6 Gerolde draad, met haak, tenzij
+
+anders vermeld
+
+1.4.2 Hout
+
+Houtkwaliteit ‚ C 18/24 (bestaand{/nieuw)
+1.4.3 Metselwerk
+
+Steenkwaliteit ‚Rode baksteen
+
+Druksterkte : 2,0 N/mm?
+
+(rekenwaarde)
+
+de ingenieursgroep
+10
+Projectnummer 210936 | | Û
+Revisie
+1.5 Bijbehorende documenten
+1.5.1 Tekeningen constructief
+210936-01 verbouwing verdiepingen 10-11-2021
+152 Tekeningen bouwkundig
+
+Tekeningen LINQ vastgoed adviseurs 01-09-2021
+
+de ingenieursgroep
+11
+Projectnummer 210936 | | Û
+Revisie
+2 OVERZICHT BELASTINGEN
+2.1 Algemeen
+kN/m?
+plat dak Jk dakhout en dakbalken 0,35
+plafond 0,15
+dakbedekking 0,10
+isolatie 0,05
+0,65
+Tk Wo = 0,00 extreem 1,00
+schuin dak Jk dakhout en gordingen 0,65
+plafond 0,15
+0,80
+dk Wo = 0,00 extreem 0,00
+zolder Jk vloerhout en vloerbalken 0,25
+plafond 0,15
+afwerking 0,20
+0,60
+Tk Wo = 0,40 extreem 1,75
+scheidingswanden 0,50
+3e verdieping Jk vloerhout en vloerbalken 0,25
+plafond 0,15
+afwerking 0,20
+0,60
+Tk Wo = 0,40 extreem 1,75
+scheidingswanden 0,50
+2e verdieping Jk vloerhout en vloerbalken 0,25
+plafond 0,15
+afwerking 0,20
+0,60
+Tk Wo = 0,40 extreem 1,75
+scheidingswanden 0,50
+de ingenieursgroep
+12
+Projectnummer 210936 | lj
+Revisie
+je verdieping Jk vloerhout en vloerbalken 0,25
+plafond 0,15
+afwerking 0,20
+0,60
+Tk Wo = 0,40 extreem 1,735
+scheidingswanden 0,50
+begane grond Jk vloerhout en vloerbalken 0,35
+afwerking 0,20
+0,55
+Tk Wo = 0,40 extreem 1,75
+scheidingswanden 0,50
+balkon Jk vloerhout en dakbalken 0,50
+0,50
+Tk Wo = 0,40 extreem 2,50
+dakterras Jk vloerhout en vloerbalken 0,25
+plafond 0,15
+afwerking 0,40
+0,80
+Tk Wo = 0,40 extreem 2,50
+d=110 baksteen Jk 2,00
+d=220 baksteen Jk 4,00
+d=330 baksteen Jk 6,00
+hsb wand Jk 0,50
+kozijnen Jk 0,50
+de ingenieursgroep
+13
+Projectnummer 210936 | lj
+Revisie
+2.2 Windbelasting
+Winddrukken en windkrachten versie 2021-01
+invoergegevens
+gebouwhoogte h 15 m
+loodrecht op windrichting b 14 m
+parallel aan windrichting d 6,5 m
+h/d 2,31
+windgebied (l, II, III): 2
+Bebouwd, Onbebouwd, Kust: B
+ontwerplevensduur t 50 jaar
+waarschijnlijkheidsfactor Cprob 1,00 -
+fundamentele
+basiswindsnelheid Voo 27,0 m/s
+basiswindsnelheid Ve 27,0 m/s
+ruwheidsfactor Cr 0,76 -
+Zo 0,5 m
+Zmin 7 m
+factor ruwheidslengte k, o22-
+gemiddelde windsnelheid Vmntz, 20,5 m/s
+turbulentie
+intensiteit L, 0,29
+resultaten
+extreme stuwdruk Tp(Ze) 0,80 kN/m?
+Zone D 0,80
+Zone E -0,57
+drukcoefficient ( zone D+E) Cpe 1,37
+winddruk op buitenzijde Wa 1,10 kN/m?
+bouwwerkfactor CsCq 1
+reductiefactor (EN1991-1-4) 0,85
+windbelasting Apk 0,93 kN/m?
+de ingenieursgroep
+14
+Projectnummer 210936 | | Û
+Revisie
+3 HOUTCONSTRUCTIE
+3.1 Dakbalklaag dakkapel
+Dak draagt af op dragende kozijn,
+Technosoft Construct release 6.70a 4A nov 2021
+Datum : 04/11/2021
+Eenheden : kN/m/rad
+Bestand : G:\Mijn
+Drive\Projecten\2021\210936\Houtconstructie\
+balklaag.cnw
+
+Toegepaste normen volgens Eurocode met Nederlandse NB
+Belastingen NEN-EN 1990:2002 C2:2010 NB:2011 (nl)
+
+NEN-EN 1991-1-1:2002 C1:2009 NB:2011 (nl)
+Hout NEN-EN 1995-1-1:2005 A1:2011,C1:2006 NB:2013 (nl)
+
+NEN-EN 14080:2013
+Gording berekening. (H) platdak
+Algemene gegevens
+B Xx H [mm] : 46 x 146 Sterkteklasse : C24
+Overspanning [mm] : 2300 Klimaatklasse : I
+Aantal zijdl. steunen : - Referentie periode [j] : 50
+Opleglengte [mm] : 100
+Hoh in het dakvlak[mm] : 600
+Helling : 0.00
+Beschot sterkteklasse : C24
+Dikte beschot [mm] : 12 Eo,mean X I (Nm? /m] : 1584.0
+Permanente belastingen Grep
+EG balklaag : 0.35
+Isolatie : 0.05
+Extra gewicht : 0.25
+Totaal [kN/m?] : 0.65
+Veranderlijke belastingen
+Ax [kN/m?] : 1.00
+Or [kN/m] : 2.00
+Or [kN] : 1.50
+en oppervlak [m2] : 0.05 x 0.05
+Reductiefactor : 0.82
+
+de ingenieursgroep
+15
+Projectnummer 210936 | | Û
+Revisie
+P Q F
+2300 6501000650 2300
+Hr AT Hr
+
+46 x 146 46 x 146 46 x 146
+Belastingfactoren (NEN-EN 1990 — Bijlage Al.3)
+Formule 6.10a: Ye : 1.35 Yo : 1.50
+Formule 6.10b: Eye : 1.20 Yo : 1.50
+Partiële factor (Tabel 2.3 NEN-EN 1995-1-1)
+Yu [-]: 1.30
+Stabiliteit
+1.Toetsing kipstabiliteit m.b.t. montagefase volgens par.6.3.3. is n.v.t.:
+
+— u hebt het belastingsgeval ‘Uitvoering! niet toegepast.
+Resultaten (maatgevende combinaties) eis u.c.
+Geconc. belasting frm(6.13) Tv, a = 0.53 < 2.46 [N/mm?] 0.21
+Geconc. belasting Érm(6.3 ) Ge, o0,a,af/ (ke,oo,a”fe,so,a) +
+Ge, 90,r,a/ (Ke, oo, r*Fe,o0o,a) < 1.00
+= 0.12/ 1.54+ 0.,49/ 2,31 = 0.29
+Lijnlast Érm(6.11) Om,v,a = 10.15 < 14.85 [N/mm?] 0.68
+Lijnlast Up 13 = 4.19 < 9.20 [mm] 0.46
+Lijnlast Unet, Ein = 5.27 < 9.20 [mm] 0.57
+de ingenieursgroep
+16
+Projectnummer 210936 | | Û
+Revisie
+3.2 Balklaag dakterras zolderverdieping
+Balklaag wordt aangenomen als 80*180/600mm (in het werk te controleren)
+Balklaag voldoet.
+Technosoft Construct release 6.70a 4A nov 2021
+Datum : 04/11/2021
+Eenheden : kN/m/rad
+Bestand : G:\Mijn
+Drive\Projecten\2021\210936\Houtconstructie\
+balklaag.cnw
+
+Toegepaste normen volgens Eurocode met Nederlandse NB
+Belastingen NEN-EN 1990:2002 C2:2010 NB:2011 (nl)
+
+NEN-EN 1991-1-1:2002 C1:2009 NB:2011 (nl)
+Hout NEN-EN 1995-1-1:2005 A1:2011,C1:2006 NB:2013 (nl)
+
+NEN-EN 14080:2013
+Balklaag berekening. (H)
+Algemene gegevens
+B Xx H [mm] : 80 x 180 Sterkteklasse : C18
+Overspanning [mm] : 3000 Klimaatklasse : I
+Opleglengte [mm] : 100 Referentie periode [jj]: 50
+H.o.h. afstand [mm] : 600 Min. eigenfreg. [Hz] : 3
+Beschot sterkteklasse: C24
+Dikte beschot [mm] : 12 Eo,mean X I (Nm? /m] : 1584
+Permanente belastingen Gr ep
+EG balklaag 2 0.25
+Extra belasting : 0.55
+Totaal [kN/m?] : 0.80
+Veranderlijke belastingen
+ep +Pwanden [KN /m?] : 2.50 = 2.50 + 0.00
+Yo Ll: 0.40
+WP, Ll: 0.30
+Or [kN] : 3.00
+en oppervlak [m2] : 0.05 x 0.05
+Reductiefactor : 0.82
+
+p F
+À 3000 À 3000
+ÁT KERK ÄTTEK TER K
+80 x 180 80 x 180
+Belastingfactoren (NEN-EN 1990)
+Formule 6.10a: Ye : 1.35 Yo : 1.50
+de ingenieursgroep
+17
+Projectnummer 210936 if
+Revisie
+Formule 6.10b: Eye : 1.20 Yo : 1.50
+Partiële factor (Tabel 2.3 NEN-EN 1995-1-1)
+Yum l-]: 1.30
+Meegenomen combinaties in de berekening : Kmoa [-] be £ [mm] ke, 90,a
+Ke, 90,r
+* Perm. + q-last (6.10a) (Grep + Ok) 0.80 80 1.00
+* Perm. + q-last (6.10b) (Grep + Ok) 0.80 80 1.00
+* Perm. + puntlast (6.10a) (Grep + Or) 0.80 80 1.00
+1.00
+* Perm. + puntlast (6.10b) (Grep + Or) 0.80 80 1.00
+1.00
+Resultaten (maatgevende combinaties) eis u.c.
+Perm + plast{(6.10b) Erm(6.11) Om, y‚a = 7.84 < 11.08 [N/mm?] 0.71
+Perm + plast(6.10b) Erm(6.13) twa = 0.52 < 2.09 [N/mm?] 0.25
+Perm + plast{(6.10b) Erm(6.3 } Ge, 90,a,a/ (Ke, 00, a*fe,o0,a) +
+Ge, 90,r,a/ (Ke, oo, r*Fe,o0o,a) < 1.00
+= 0.11/ 1.35+ 0.55/ 1.35 = 0.49
+
+Verdeelde belasting Up 1 3 = 6.20 < 9.00 [mm] 0.69
+Verdeelde belasting Unet, Ein = 7.65 < 12.00 [mm] 0.64
+Resonantie : eerste eigen frequentie = 9,84 > 3.00 [Hz] 0.30
+Opmerking «: Eigen frequentie is groter dan 8 Hz. Toetsing volgens EN 1995-
+1-1
+
+art. 7.3.3(2) is noodzakelijk.
+
+de ingenieursgroep
+18
+Projectnummer 210936 | if
+Revisie
+3.3 Balklaag dakterras 3° verdieping
+Balklaag wordt aangenomen als 75*175 / 600mm. In het werk te controleren.
+Balklaag voldoet
+Technosoft Construct release 6.70a 4A nov 2021
+Datum : 04/11/2021
+Eenheden : kN/m/rad
+Bestand : G:\Mijn
+Drive\Projecten\2021\210936\Houtconstructie\
+balklaag.cnw
+Toegepaste normen volgens Eurocode met Nederlandse NB
+Belastingen NEN-EN 1990:2002 C2:2010 NB:2011 (nl)
+NEN-EN 1991-1-1:2002 C1:2009 NB:2011 (nl)
+Hout NEN-EN 1995-1-1:2005 A1:2011,C1:2006 NB:2013 (nl)
+NEN-EN 14080:2013
+Balklaag berekening. (H)
+Algemene gegevens
+B Xx H [mm] : 75 x 175 Sterkteklasse : C18
+Overspanning [mm] : 3500 Klimaatklasse : I
+Opleglengte [mm] : 100 Referentie periode [jj]: 50
+H.o.h. afstand [mm] : 600 Min. eigenfreg. [Hz] : 3
+Beschot sterkteklasse: C24
+Dikte beschot [mm] : 12 Eo,mean X I (Nm? /m] : 1584
+Permanente belastingen Gr ep
+EG balklaag : 0.08
+Extra belasting : 0.55
+Totaal [kN/m?] : 0.63
+Veranderlijke belastingen
+ep +Pwanden [KN /m?] : 2.50 = 2.50 + 0.00
+Yo Ll: 0.40
+WP, Ll: 0.30
+Or [kN] : 3.00
+en oppervlak [m2] : 0.05 x 0.05
+Reductiefactor : 0.82
+p F
+À 3500 Á 3500
+ÁTE# Á TE EEEE
+15 x 175 75 x 175
+Belastingfactoren (NEN-EN 1990)
+Formule 6.10a: Ye : 1.35 Yo : 1.50
+de ingenieursgroep
+19
+Projectnummer 210936 if
+Revisie
+Formule 6.10b: Eye : 1.20 Yo : 1.50
+Partiële factor (Tabel 2.3 NEN-EN 1995-1-1)
+Yum l-]: 1.30
+Meegenomen combinaties in de berekening : Kmoa [-] be £ [mm] ke, 90,a
+Ke, 90,r
+* Perm. + q-last (6.10a) (Grep + Ok) 0.80 75 1.00
+* Perm. + gq-last (6.10b) (Grep + Ok) 0.80 75 1.00
+* Perm. + puntlast (6.10a) (Grep + Or) 0.80 75 1.00
+1.00
+* Perm. + puntlast (6.10b) (Grep + Or) 0.80 75 1.00
+1.00
+Resultaten (maatgevende combinaties) eis u.c.
+Perm + glast{(6.10b) frm(6.11) Om,y,a = 10.83 < 11.08 [N/mm?] 0.98
+Perm + plast(6.10b) frm(6.13) Tv, a = 0.57 < 2.09 [N/mm?] 0.27
+Perm + plast{(6.10b) Erm(6.3 } Ge, 90,a,a/ (Ke, 00, a*fe,o0,a) +
+Ge, 90,r,a/ (Ke, oo, r*Fe,o0o,a) < 1.00
+
+= 0.11/ 1.35+ 0.59/ 1.35 = 0.51
+Verdeelde belasting Up 1 3 = 12.95 < 10.50 [mm] 1.23
+Verdeelde belasting Unet, Ein = 15.41 < 14.00 [mm] 1.10
+Resonantie : eerste eigen frequentie = 7.04 > 3.00 [Hz] 0.43
+
+de ingenieursgroep
+20
+Projectnummer 210936 | | Û
+Revisie
+3.4 Verankering baluster
+In onderstaande een berekening van de verankering van de baluster aan de houten balklaag. De
+baluster zelf is volgens opgave leverancier.
+d,
+el la
+1 TAA A7 g ZIEN
+MI 4 OO
+AND 4 A
+) En
+Twee varianten voor verankering van het hekwerk.
+21
+Projectnummer 210936 | lj
+Revisie
+Staal- op houtverbinding met houtdraadbouten versie 2019-01
+invoergegevens
+rekenwaarde stootbelasting Fa 1,5 kN
+hoogte aanstootpunt hi 1 m
+buigend moment Ma 1,35 kNm
+afstand di 120 mm
+axiale belasting Faxced 12,5 kN
+belastingduurklasse 2
+modificatiefactor Kmod 0,8
+volumieke massa p 390 kg/m3
+materiaalfactor Ym 15
+grensspanning houtdraadbout fu 400 N/mm2
+boutdiameter drom 10 mm
+aantal n 2
+verankeringslengte Inom mm
+materiaalfactor Ym US:
+hoek met vezelrichting a 90 gr
+minimale balkbreedte [> 8d] b4 80
+effectief aantal Nef 1,9
+effectieve verankeringslengte lef 48 mm
+resultaten
+dE axk
+anne EK
+sin X+1,5cos a
+fak 21,4 N/mm
+0,8
+Psn = Nef (ads) Pas
+rekenwaarde uittreksterkte Facra 13,9 kN
+toetsing van de verbinding
+gecombineerde toetsing voor belasting Fra <i
+in dwarsrichting en axiale belasting Em 7
+uc
+0,90
+22
+Projectnummer 210936 | | Û
+Revisie
+4 STAALCONSTRUCTIE
+4.1 Doorbraak tussenmuur voorzijde
+a1
+Wo breedte lengte kN/m? kN/m' kN/m? kN/m!
+3e verdieping 1 0,60 6,830 0,60 245 extr. 2,25 9,18
+d=110 baksteen 1,00 0,50 2,00 1,00
+gK= 3,4 KS 9,2
+Uitgangspunt is de bestaande plattegrond, geen sparing aanwezig onder de nieuwe kolommen:
+5 |
+_ dale |
+_ |
+az er
+| a
+| |
+|
+|
+Ü
+Ü
+| |
+[ |
+| |
+| |
+| |
+| |
+| |
+|
+IN |
+En |
+[Es
+RE Ï
+mm
+EE |
+L, |
+5 et tet aans) |
+| gr DE ekke |
+| vere a niet?
+| == indeling T
+| |
+| |
+| |
+|
+|
+| |
+|
+|
+| |
+| |
+a
+mn RE
+| EE
+de ingenieursgroep
+23
+Project
+Projectnummer 210936 | if
+Revisie
+Technosoft Raamwerken release 6.73a 4 nov 2021
+Project......: 210936
+Onderdeel....: doorbraak tussenmuur voorzijde
+Constructeur.: lex
+Dimensies....: kN;m;rad (tenzij anders aangegeven)
+Datum. .......: 04/11/2021
+Bestand......: G:\Mijn
+Drive\Projecten\2021\210936\Staalconstructie\doorbraak
+tussenmuur voorzijde. rww
+Rekenmodel.......: le-orde-elastisch.
+Theorie voor de bepaling van de krachtsverdeling:
+Geometrisch lineair.
+Fysisch lineair.
+Gunstige werking van de permanente belasting wordt automatisch verwerkt,
+Toegepaste normen volgens Eurocode met Nederlandse NB
+Belastingen NEN-EN 1990:2002 C2:2010,A1:2019 NB:2019 (nl)
+NEN-EN 1991-1-1:2002 C1/C11:2019 NB: 2019 (nl)
+Staal NEN-EN 1993-1-1:2006 C2:2011,A1:2016 NB:2016 (nl)
+GEOMETRIE
+Da 2
+T 5.EEB220 (8235) q
+5 5
+lsô lsô
+ON ON
+2 2
+je] je]
+ON ON
+Jd Jd
+< <
+Ò Q
+Des 83
+2.HEB220 (8235)
+5 5
+lsô lsô
+ON ON
+2 2
+je] je]
+ON ON
+— —
+<5 <5
+Ö Ö
+4} 4Â
+MATERIALEN
+Mt Kwaliteit E-modulus[N/mm2] S.G. Pois. Uitz. coëff£
+1 S235 210000 78.5 0.30 1.2000e-05
+PROFIELEN [mm]
+Prof. Omschrijving Materiaal Oppervlak Traagheid VormÉ.
+1 HEA120 1:5235 2.,5340et03 6.,0600et06 0.00
+2 HEA120 1:5235 2.,5340et03 6.,0600et06 0.00
+3 HEB220 1:5235 9,1000e+03 8.0910et07 0.00
+de ingenieursgroep
+24
+Projectnummer 210936 | if
+Revisie
+Project......: 210936
+Onderdeel....: doorbraak tussenmuur voorzijde
+PROFIELEN vervolg [mm]
+Prof. Staaftype Breedte Hoogte e Type b1 h1 b2 h2
+1 O:Normaal 120 114 57.0
+2 O:Normaal 120 114 57.0
+3 O:Normaal 220 220 110.0
+PROFIELVORMEN [mm]
+1 HEA120
+2 HEA120
+3 HEB220
+KNOPEN
+Knoop X Z Knoop X Z
+1 0.000 0.000 6 6.200 6.300
+2 0.000 3.200
+3 6.200 3.200
+4 6.200 0.000
+5 0.000 6.300
+STAVEN
+SE. ki kj Profiel Aansl.i Aansl.j Lengte Opm.
+1 1 2 2:HEA120 NDM ND- 3.200
+2 2 3 3:HEB220 NDM NDM 6.200
+3 4 3 2:HEA120 NDM ND- 3.200
+4 2 5 1:HEA120 ND- ND- 3.100
+5 5 6 3:HEB220 NDM NDM 6.200
+6 3 6 1:HEA120 ND- ND- 3.100
+VASTE STEUNPUNTEN
+Nr. knoop Kode XZR 1=vast O=vrij Hoek
+1 1 110 0.00
+2 2 100 0.00
+3 4 110 0.00
+4 5 100 0.00
+BELASTINGGEVALLEN
+B.G. Omschrijving Type
+1 Permanente belasting EGZ=-1.00 1
+2 Veranderlijke belasting 2 Ver. bel. pers. ed. (aq k)
+3 Knik 0 Onbekend
+de ingenieursgroep
+25
+Projectnummer 210936 | | Û
+Revisie
+Project......: 210936
+Onderdeel....: doorbraak tussenmuur voorzijde
+BELASTINGEN B.G:1 Permanente
+belasting
+Eigen gewicht van alle staven is meegenomen in berekening. Richting: \
+De el
+pe 7 Y Y Y Y YZ}
+|
+It Ver | |W
+Des Yv 7 Y Y YZ YZ Y 8
+Ö O0
+2 2
+STAAFBELASTINGEN B.G:1 Permanente
+belasting
+Staaf Type al/p/m a2 A B Wo Wi We
+5 1:QZLokaal 3.40 3.40 0.000 0.000
+2 1:QZLokaal 3.40 3.40 0.000 0.000
+de ingenieursgroep
+26
+Projectnummer 210936 | | Û
+Revisie
+Project......: 210936
+Onderdeel....: doorbraak tussenmuur voorzijde
+BELASTINGEN B.G:2 Veranderlijke
+belasting
+
+De lee lj
+
+MI
+\Z NZ \Z \Z \Z \Z Z
+To
+EE:
+QW 7 YZ YZ YZ YZ LZ 8
+D& 5
+
+Ö Ö
+
+ZD ZD
+STAAFBELASTINGEN B.G:2 Veranderlijke
+belasting
+Staaf Type al/p/m a2 A B Wo Wi We
+
+5 1:QZLlokaal -9.20 -9.20 0.000 0.000 0.40 0.50 0.30
+2 1:QZLlokaal -9.20 -9.20 0.000 0.000 0.40 0.50 0.30
+de ingenieursgroep
+27
+Project En
+Projectnummer 210936 | if
+Revisie
+Project......: 210936
+Onderdeel....: doorbraak tussenmuur voorzijde
+BELASTINGEN B.G:3
+Knik
+Ì DS
+|
+Q 1 Q
+Dé 4
+Ö e)
+Zo Z
+KNOOPBELASTINGEN B.G:3
+Knik
+Last Knoop Richting waarde Wo Wi Wz
+1 3 X 1.000
+2 6 X 1.000
+REACTIES
+Kn. B.G. X Z M
+1 1 0.00 26.76
+1 2 0.00 57.04
+1 3 0.00 0.00
+2 1 0.00
+2 2 0.00
+2 3 -1.00
+4 1 0.00 26.76
+4 2 0.00 57.04
+4 3 0.00 0.00
+5 1 0.00
+5 2 0.00
+3 3 -1.00
+BELASTINGCOMBINATIES
+BC Type
+1 Fund. 1.35 Gr,1 + 1.50 Wo Ox, z
+2 Fund. 1.20 Gk,1 + _ 1.50 Or, 2
+3 Kar. 1.00 Gx,1 + 1.00 Wo Ox, z
+4 Kar. 1.00 Gx,1 + 1.00 Ox, 2
+5 Freg. 1.00 Gr,1 + 1.00 wi Ox, z
+6 Quas. 1.00 Gk,1 + 1.00 We Ox, z
+7 Blij. 1.00 Gk,1
+de ingenieursgroep
+28
+Projectnummer 210936 | if
+Revisie
+Project......: 210936
+Onderdeel....: doorbraak tussenmuur voorzijde
+GUNSTIGE WERKING PERMANENTE BELASTINGEN
+BC Staven met gunstige werking
+1 Geen
+2 Geen
+OMHULLENDE VAN DE FUNDAMENTELE COMBINATIES
+MOMENTEN Fundamentele
+combinatie
+OO
+“Ser
+—-90
+DWARSKRACHTEN Fundamentele
+combinatie
+58
+T
+en
+dr
+1
+-58
+58
+cd
+Ld
+LI
+-58
+de ingenieursgroep
+29
+Projectnummer 210936 | if
+Revisie
+Project......: 210936
+Onderdeel....: doorbraak tussenmuur voorzijde
+NORMAALKRACHTEN Fundamentele
+combinatie
+| 00 oo
+LD LD
+|
+|
+[5 [5
+| 5
+Lo Lo
+| |
+| |
+ee ee
+NE 5
+| |.
+REACTIES Fundamentele
+combinatie
+Kn. X-min X-max Z-min Z-max M-min M-max
+1 0.00 0.00 70.35 117.67
+2 0.00 0.00
+4 0.00 0.00 70.35 117.67
+5 0.00 0.00
+OMHULLENDE VAN DE KARAKTERISTIEKE COMBINATIES
+VERPLAATSINGEN [mam ] Karakteristieke
+combinatie
+0.74 TA
+-15.8
+-0.50 0.50
+-15.6
+REACTIES Karakteristieke
+combinatie
+Kn. X-min X-max Z-min Z-max M-min M-max
+1 0.00 0.00 49,58 83.80
+2 0.00 0.00
+4 0.00 0.00 49,58 83.80
+5 0.00 0.00
+de ingenieursgroep
+30
+Projectnummer 210936 | | Û
+Revisie
+Project......: 210936
+Onderdeel....: doorbraak tussenmuur voorzijde
+OMHULLENDE VAN DE FREQUENTE COMBINATIES
+VERPLAATSINGEN [mam ] Frequente
+combinatie
+-0.49 70.49
+-10.4
+-0.33 70.33
+-10.2
+REACTIES Frequente
+combinatie
+Kn. X Z M
+1 0.00 55.28
+2 0.00
+4 0.00 55.28
+5 0.00
+OMHULLENDE VAN DE QUASI-BLIJVENDE COMBINATIES
+VERPLAATSINGEN [mam ] Quasi-blijvende
+combinatie
+-0.39 77-0J39
+-8.2
+-0.26 770.26
+-8.0
+REACTIES Quasi-blijvende
+combinatie
+Kn. X Z M
+1 0.00 43.87
+2 0.00
+4 0.00 43.87
+5 0.00
+de ingenieursgroep
+31
+Projectnummer 210936 | if
+Revisie
+Project......: 210936
+Onderdeel....: doorbraak tussenmuur voorzijde
+OMHULLENDE VAN DE BLIJVENDE COMBINATIES
+VERPLAATSINGEN [mm] Blijvende
+combinatie
+-0.24 70.24
+-4.89
+-0.16 70.16
+-4.82
+REACTIES Blijvende
+combinatie
+Kn. X Z M
+1 0.00 26.76
+2 0.00
+4 0.00 26.76
+5 0.00
+STAALPROFIELEN — ALGEMENE GEGEVENS
+Stabiliteit: Classificatie gehele constructie: Geschoord
+Doorbuiging en verplaatsing:
+Aantal bouwlagen: 1
+Gebouwtype: Overig
+Toel. horiz. verplaatsing gehele gebouw: hn/300
+Kleinste gevelhoogte [m]: 0.0
+PROFIEL/MATERIAAL
+P/M Profielnaam Vloeisp. Productie Min. drsn.
+nr. [N/mm? ] methode klasse
+1 HEA120 235 Gewalst 1
+2 HEA120 235 Gewalst 1
+3 HEB220 235 Gewalst 1
+Partiële veiligheidsfactoren:
+Gamma M;0 : 1.00 Gamma M;1 : 1.00
+KNIKSTABILITEIT Extra Extra
+Staaf lsys Classif, y lrnik;y aanp. y Classif. z lIknik;z aanp. z
+[m] sterke as [m] [kN] zwakke as [m] [KN]
+1 3.200 Geschoord 3.200 0.0 Geschoord 3.200 0.0
+2 6.200 Geschoord 6.200 0.0 Geschoord 6.200 0.0
+3 3.200 Geschoord 3.200 0.0 Geschoord 3.200 0.0
+4 3.100 Geschoord 3.100 0.0 Geschoord 3.100 0.0
+3 6.200 Geschoord 6.200 0.0 Geschoord 6.200 0.0
+6 3.100 Geschoord 3.100 0.0 Geschoord 3.100 0.0
+de ingenieursgroep
+32
+Projectnummer 210936 | | Û
+Revisie
+Project......: 210936
+Onderdeel....: doorbraak tussenmuur voorzijde
+KIPSTABILITEIT
+Staaf Plts. l gaffel Kipsteunafstanden
+aangr. [m] [ml]
+1 1.0*h boven: 3.20 3.200
+onder: 3.20 3.200
+2 1.0*h boven: 6.20 6.200
+onder: 6.20 6.200
+3 0.0*h boven: 3.20 3.200
+onder: 3.20 3.200
+4 1.0*h boven: 3.10 3.100
+onder: 3.10 3.100
+5 1.0*h boven: 6.20 6.200
+onder: 6.20 6.200
+6 0.0*h boven: 3.10 3.100
+onder: 3.10 3.100
+TOETSING SPANNINGEN
+Staaf P/M BC Sit Kl Plaats Norm Artikel Formule Hoogste toetsing Opm.
+nr. U.C. [N/mm]
+1 2 2 1 1 Staaf EN3-1-1 6.3.1.1 (6.46z) 0.421 99 47
+2 3 2 1 1 Staaf EN3-1-1 6.3.2 (6.54) 0.544 128
+3 2 2 1 1 Staaf EN3-1-1 6.3.1.1 (6.46z) 0.421 99 47
+4 1 2 1 1 Staaf EN3-1-1 6.3.1.1 (6.46z) 0.203 48 47
+5 3 2 1 1 Staaf EN3-1-1 6.3.2 (6.54) 0.544 128
+6 1 2 1 1 Staaf EN3-1-1 6.3.1.1 (6.46z) 0.203 48 47
+Opmerkingen:
+[ 471 Bij verlopende normaalkracht wordt de grootste drukkracht genomen.
+TOETSING DOORBUIGING
+Staaf Soort Mtg Lengte Overst Zeeg Utot BC Sit u Toelaatbaar
+[Im] 1 J _[mm) [mm] [mm ] [mm ] *1
+2 Vlrtw db 6.20 NN 0.0 -15.1 4 1 Eind —15.1 424,8 0.004
+db 4 1 Bijk —10.4 2#12,4 0.002
+5 Vlrtw db 6.20 NN 0.0 -15.1 4 1 Eind —15.1 424,8 0.004
+db 4 1 Bijk —10.4 2#12,4 0.002
+TOETSING HORIZONTALE VERPLAATSING
+Staaf BC Sit Lengte Ue ind Toelaatbaar
+[m] [mm] [mm] [h/1
+1 3 1 3.200 0.0 10.7 300
+3 3 1 3.200 0.0 10.7 300
+4 3 1 3.100 0.0 10.3 300
+6 3 1 3.100 0.0 10.3 300
+DOORBUIGINGEN Karakteristieke
+combinatie
+Nr. staven Zijde positie lrep Wi Wa |-- Woij =| Weot We |-- Wmax =|
+[m] [ram] [mm] [mm] [mm]{lrep/] [mm] [mm] [mm] [lrep/]
+3 2 Neg. 3.338 6200 —4.6 -10.3 599 -15.0 -15.0 414
+6 5 Neg. 3.338 6200 —4.6 -10.3 599 -15.0 -15.0 414
+HORIZONTALE VERPLAATSING Karakteristieke
+combinatie
+Alle vervormingen zijn kleiner dan lrep/9999 of h/9999
+DOORBUIGINGEN Frequente
+combinatie
+Nr. staven Zijde positie lrep Wi Wa |-- Woij =| Weot We |-- Wmax =|
+[m] [ram] [mm] [mm] [mm]{lrep/] [mm] [mm] [mm] [lrep/]
+33
+Project
+Projectnummer 210936 | if
+Revisie
+Project......: 210936
+Onderdeel....: doorbraak tussenmuur voorzijde
+DOORBUIGINGEN Frequente
+combinatie
+Nr. staven Zijde positie lrep Wi Wa |-- Woij =| Weot We |-- Wmax =|
+[m] [ram] [mm] [mm] [mm]{lrep/] [mm] [mm] [mm] [lrep/]
+
+3 2 Neg. 3,338 6200 -—-4.6 -5.2 1199 —9,8 -9,8 633
+
+6 5 Neg. 3,338 6200 -—-4.6 -5.2 1199 —9,8 -9.8 633
+HORIZONTALE VERPLAATSING Frequente
+combinatie
+Alle vervormingen zijn kleiner dan lrep/9999 of h/9999
+DOORBUIGINGEN Quasi-blijvende
+combinatie
+Nr. staven Zijde positie lrep Wi Wa |-- Woij =| Weot We |-- Wmax =|
+
+[ml] [ram] [mm] [ram] [mm]{lrep/] [mm] [mm] [mm] [lrep/]
+
+3 2 Neg. 3,338 6200 -—-4.6 -3.1 1998 —7.7 7.7 802
+
+6 5 Neg. 3,338 6200 -—-4.6 -3.1 1998 —7.7 7.7 802
+HORIZONTALE VERPLAATSING Quasi-blijvende
+combinatie
+Alle vervormingen zijn kleiner dan lrep/9999 of h/9999
+Kolommen op sloffen:
+118.000 / 100 * 2 = 600mm, HEA100
+
+de ingenieursgroep
+34
+Projectnummer 210936 | | Û
+Revisie
+4.2 Doorbraak achtergevel
+Het portaal voorziet in de dwarsstabiliteit van een deel van het pand:
+Per verdieping:
+Fwk = 0,93 * 12/2 * 3 = 16 kN
+q2
+Wo breedte lengte kN/m? kN/m' kN/m? kN/m!
+zolder 1 0,60 6,80 0,60 245 extr. 2,25 9,18
+G k= 2,4 KS 9,2
+q3
+Wo breedte lengte kN/m? kN/m' kN/m? kN/m!
+3e verdieping 1 0,60 6,830 0,60 245 extr. 2,25 9,18
+d=110 baksteen 1,00 0,40 2,00 0,80
+G= 3,2 KS 9,2
+q4
+Wo breedte lengte kN/m? kN/m! kN/m? kN/m'
+schuin dak 0 1,00 4,00 0,80 3,20 mom. 0,00 0,00
+G= 3,2 KS 0,0
+de ingenieursgroep
+35
+Projectnummer 210936 | | Û
+Revisie
+Technosoft Raamwerken release 6.73a 4 nov 2021
+Project......: 210936
+Onderdeel....: doorbraak achtergevel
+Constructeur.: lex
+Dimensies....: kN;m;rad (tenzij anders aangegeven)
+Datum. .......: 04/11/2021
+Bestand......: G:\Mijn
+Drive\Projecten\2021\210936\Staalconstructie\doorbraak
+achtergevel. rww
+Rekenmodel.......: le-orde-elastisch.
+Theorie voor de bepaling van de krachtsverdeling:
+Geometrisch lineair.
+Fysisch lineair.
+Gunstige werking van de permanente belasting wordt automatisch verwerkt,
+Toegepaste normen volgens Eurocode met Nederlandse NB
+Belastingen NEN-EN 1990:2002 C2:2010,A1:2019 NB:2019 (nl)
+NEN-EN 1991-1-1:2002 C1/C11:2019 NB: 2019 (nl)
+Staal NEN-EN 1993-1-1:2006 C2:2011,A1:2016 NB:2016 (nl)
+GEOMETRIE
+ALA _14.HEA160 (5235) ”
+3
+£7 6.1 12.1 __—7.HEB180 (S235) _
+LD LD
+lse) lse)
+ON ON
+2 2
+je] je]
+oo oo
+Ean Ean
+ro ro
+Dia) | : :
+je)
+Ema]
+AIT 1.2 9.2 | _—3.HEB220 (8235) _
+LD LD
+lse) lse)
+ON ON
+2 2
+je] je]
+ON ON
+OQ OQ
+EO EO
+43 52
+MATERIALEN
+Mt Kwaliteit E-modulus[N/mm2] S.G. Pois. Uitz. coëff£
+1 S235 210000 78.5 0.30 1.2000e-05
+PROFIELEN [mm]
+Prof. Omschrijving Materiaal Oppervlak Traagheid VormÉ.
+1 HEB180 1:5235 6.5300e403 3.8310et07 0.00
+2 HEB220 1:5235 9,1000e+03 8.0910et07 0.00
+3 HEA160 1:5235 3.8800e+03 1.6730et07 0.00
+4 HEA100 1:5235 2,1240e+03 3.4900et06 0.00
+5 HEB180 1:5235 6.5300e403 3.8310et07 0.00
+6 HEB180 1:5235 6.5300e403 3.8310et07 0.00
+de ingenieursgroep
+36
+Projectnummer 210936 | if
+Revisie
+Project......: 210936
+Onderdeel....: doorbraak achtergevel
+PROFIELEN vervolg [mm]
+Prof. Staaftype Breedte Hoogte e Type b1 h1 b2 h2
+1 O:Normaal 180 180 90.0
+2 O:Normaal 220 220 110.0
+3 O:Normaal 160 152 76.0
+4 O:Normaal 100 96 48,0
+5 O:Normaal 180 180 90.0
+6 O:Normaal 180 180 90.0
+PROFIELVORMEN [mm]
+1 HEB180
+2 HEB220
+3 HEA160
+4 HEA100
+5 HEB180
+6 EEB180
+KNOPEN
+Knoop X Z Knoop X Z
+1 0.000 3.200 6 3.000 6.400
+2 6.800 3.200 7 0.000 6.400
+3 3.000 0.000 8 6.800 6.400
+4 3.000 3.200 9 2,000 3.200
+5 6.800 0.000 10 2,000 4,000
+11 1.000 4,000
+12 2,400 6.400
+13 2,400 7.300
+14 -1.400 7.300
+STAVEN
+St. ki kj Profiel Aansl.i Aansl.j Lengte Opm.
+1 1 9 2:HEB220 NDM NDM 2,000
+2 3 4 2:HEB220 NDM NDM 3.200
+3 4 2 2:HEB220 NDM NDM 3.800
+4 5 2 2:HEB220 NDM NDM 3.200
+5 4 6 6:HEB180 NDM NDM 3.200
+6 7 12 1:HEB180 NDM NDM 2,400
+7 6 8 1:HEB180 NDM NDM 3.800
+8 2 8 6:HEB180 NDM NDM 3.200
+9 9 4 _2:HEB220 NDM NDM 1.000
+10 9 10 4:HEA100 ND- ND- 0.800
+de ingenieursgroep
+37
+Projectnummer 210936 | | Û
+Revisie
+Project......: 210936
+Onderdeel....: doorbraak achtergevel
+STAVEN
+SE. ki kj Profiel Aansl.i Aansl.j Lengte Opm.
+11 11 10 4:HEA100 NDM NDM 1.000
+12 12 6 1:HEB180 NDM NDM 0.600
+13 12 13 3:HEA160 ND- ND- 0.900
+14 14 13 3:HEA160 NDM NDM 3.800
+VASTE STEUNPUNTEN
+Nr. knoop Kode XZR 1=vast O=vrij Hoek
+1 1 010 0.00
+2 3 110 0.00
+3 5 110 0.00
+4 7 010 0.00
+5 11 110 0.00
+6 14 110 0.00
+BELASTINGGEVALLEN
+B.G. Omschrijving Type
+1 Permanente belasting EGZ=-1.00 1
+2 Veranderljke belasting 2 Ver. bel. pers. ed. (aq k)
+3 wind links 8 Wind van links overdruk A
+4 wind rechts 11 Wind van rechts onderdruk A
+5 Knik 0 Onbekend
+BELASTINGEN B.G:1 Permanente
+belasting
+Eigen gewicht van alle staven is meegenomen in berekening. Richting: \
+2.4
+em ee Li
+Ö
+Ô bee le bel
+dd ZL vil yl wy Y Z
+À
+3.2
+OAZ
+Ö Ö
+Ö 5 6, C
+A
+Ö Ö
+2 2
+de ingenieursgroep
+38
+Projectnummer 210936 | | Û
+Revisie
+Project......: 210936
+Onderdeel....: doorbraak achtergevel
+STAAFBELASTINGEN B.G:1 Permanente
+belasting
+Staaf Type al/p/m a2 A B Wo Wi We
+6 1:QZLokaal -3.20 -3.20 0.000 0.000
+12 1:QZLlokaal -3.20 -3.20 0.000 0.000
+7 1:QZLokaal -3.20 -3.20 0.000 0.000
+14 1:QZLokaal -2.40 -2.40 0.000 0.000
+11 1:QZLlokaal -3.20 -3.20 0.000 0.000
+BELASTINGEN B.G:2 Veranderljke
+belasting
+dy 4 Z vd
+Ö °
+C 5 Ce DO)
+A
+or L0
+À Q
+C. 8 6 G
+A
+Ö ®)
+2 ZN
+STAAFBELASTINGEN B.G:2 Veranderljke
+belasting
+Staaf Type al/p/m a2 A B Wo Wi We
+14 1:QZLlokaal -9,20 -9,20 0.000 0.000 0.40 0.50 0.30
+11 1:QZLlokaal -9,20 -9,20 0.000 0.000 0.40 0.50 0.30
+de ingenieursgroep
+39
+Projectnummer 210936 | lj
+Revisie
+Project......: 210936
+Onderdeel....: doorbraak achtergevel
+BELASTINGEN B.G:3 wind
+links
+vaN
+16
+Ä
+5
+16
+A
+KNOOPBELASTINGEN B.G:3 wind
+links
+Last Knoop Richting waarde Wo Wi Wz
+1 1 X 16.000 0.40 0.50 0.30
+2 TX 16.000 0,40 0.50 0.30
+de ingenieursgroep
+40
+Projectnummer 210936 | | Û
+Revisie
+Project......: 210936
+Onderdeel....: doorbraak achtergevel
+BELASTINGEN B.G:4 wind
+rechts
+8
+5 5 — 16 OQ
+2
+5 © — Le Q
+Ö Ö
+5 5
+KNOOPBELASTINGEN B.G:4 wind
+rechts
+Last Knoop Richting waarde Wo Wai Wz
+1 2 X -16.000 0.40 0,50 0.30
+2 8 X -16.000 0.40 0,50 0.30
+de ingenieursgroep
+41
+Projectnummer 210936 | if
+Revisie
+Project......: 210936
+Onderdeel....: doorbraak achtergevel
+BELASTINGEN B.G:5
+Knik
+1 De
+2
+Ì Po Ì 1 Dose 1 Do
+LA LL LL
+1 Ds
+Ti
+1 Dot IH Dl Ì Dd
+EN LL” LL” LL”
+Ö Ö
+5 5
+KNOOPBELASTINGEN B.G:5
+KEK
+Last Knoop Richting waarde Wo Wi Wz
+1 1 X 1.000
+2 2 X 1.000
+3 4 X 1.000
+4 6 X 1.000
+5 1 X 1.000
+6 8 X 1.000
+7 9 X 1.000
+8 10 X 1.000
+9 12 X 1.000
+10 13 X 1.000
+REACTIES
+Kn. B.G. X Z M
+1 1 1.40
+1 2 1.02
+1 3 -8.55
+1 4 8.54
+1 5 -2.14
+3 1 -0.02 28.34
+3 2 0.01 20.72
+3 3 -17.75 -21.06
+3 4 17.74 21.09
+3 5 -4.44 -5.27
+5 1 0.02 10.65
+5 2 -0.01 -1.62
+5 3 EN) 31.88
+5 4 14.26 -31.89
+5 5 -3.56 7.97
+de ingenieursgroep
+42
+Project
+Projectnummer 210936 | | Û
+Revisie
+Project......: 210936
+Onderdeel....: doorbraak achtergevel
+REACTIES
+Kn. B.G. X Z M
+7 1 4,79
+7 2 1.96
+7 3 -2.27
+7 4 2,27
+7 5 -0.57
+11 1 0.00 1.68
+11 2 0.00 4.60
+11 3 0.00 0.00
+11 4 0.00 0.00
+11 5 -1.00 0.00
+14 1 0.00 5.14
+14 2 0.00 17.48
+14 3 0.00 0.00
+14 4 0.00 0.00
+14 5 -1.00 0.00
+BELASTINGCOMBINATIES
+BC Type
+1 Fund. 1.35 Gr,1 + 1.50 Wo Ox, z
+2 Fund. 1.20 Gk,1 + _ 1.50 Or, 2
+3 Fund. 1.20 Gx,1 + 1.50 Wo Ox, z + 1.50 Ok, 3
+4 Fund, 1.20 Gk,1 + 1.50 Wo Ox, z + 1.50 Ok, a
+5 Kar. 1.00 Gx,1 + 1.00 Wo Ox, z
+6 Kar. 1.00 Gx,1 + 1.00 Ox, 2
+7 Kar. 1.00 Gx,1 + 1.00 Wo Ox, z + 1.00 Or,:
+8 Kar. 1.00 Gx,1 + 1.00 Wo Ox, z + 1.00 Ork, a
+9 Freg. 1.00 Gr,1 + 1.00 wi Ox, z
+10 Quas, 1.00 Gr,1 + 1.00 Wz Ox, 2
+11 Blij. 1.00 Gk,1
+GUNSTIGE WERKING PERMANENTE BELASTINGEN
+BC Staven met gunstige werking
+1 Geen
+2 Geen
+3 Geen
+4 Geen
+de ingenieursgroep
+43
+Projectnummer 210936 | lj
+Revisie
+Project......: 210936
+Onderdeel....: doorbraak achtergevel
+OMHULLENDE VAN DE FUNDAMENTELE COMBINATIES
+MOMENTEN Fundamentele
+combinatie
+—-30.8 26.0 19.3
+een nh en
+sE a
+… I a
+| [7
+-2.2 i
+EH >
+“nr a
+HH —-13
+LL Lj
+HT HT
+LL WL
+WJ Ii
+ip HH
+Ĳ ij
+DWARSKRACHTEN Fundamentele
+combinatie
+32.4
+1
+37.4
+7.1 15.5
+nl IE
+-32. AT ST ELL
+Sdise SH
+LL [L
+TT U
+8.3 36.1 39.4
+Ee e TH
+eee LEE
+Ti EA
+Sea SHH NES
+41.1 En
+mm
+Te TT =
+el + rj +
+Le LO —
+oi ov =H
+a! mn
+de ingenieursgroep
+44
+Projectnummer 210936 | if
+Revisie
+Project......: 210936
+Onderdeel....: doorbraak achtergevel
+NORMAALKRACHTEN Fundamentele
+combinatie
+-
+| &
+lee)
+el
+TS LD
+24.0 | -15.5 D
+| sr —
+| I I
+=|
+Rr
+Ii TE TO m-
+-24.0 _-24.0f je
+I I Kl | I
+[ Ï
+I Ì
+l Ì
+| zl
+iS SS
+1 of 1
+REACTIES Fundamentele
+combinatie
+Kn. X-min X-max Z-min Z-max M-min M-max
+1 -10.52 15.10
+3 -26.65 26.59 14.85 78.07
+5 -21.35 21.41 —-36.03 59.63
+7 3.52 10.32
+11 0.00 0.00 4.78 8.92
+14 0.00 0.00 16.65 32.39
+OMHULLENDE VAN DE KARAKTERISTIEKE COMBINATIES
+VERPLAATSINGEN [mam ] Karakteristieke
+combinatie
+=
+EREN :
+— ON
+NN ei &
+ON st
+|
+o Á\ 2 ot e
+hels sis
+= a
+E Í
+REACTIES Karakteristieke
+combinatie
+Kn. X-min X-max Z-min Z-max M-min M-max
+1 -6.74 10.35
+3 17.77 17.72 15.57 57.72
+5 -14.23 14.28 -21.89 41.88
+7 3.30 7.84
+11 0.00 0.00 3.52 6.28
+de ingenieursgroep
+45
+Projectnummer 210936 | | Û
+Revisie
+Project......: 210936
+Onderdeel....: doorbraak achtergevel
+REACTIES Karakteristieke
+combinatie
+Kn. X-min X-max Z-min Z-max M-min M-max
+14 0.00 0.00 12.13 22.62
+OMHULLENDE VAN DE FREQUENTE COMBINATIES
+VERPLAATSINGEN [mam ] Frequente
+combinatie
+en D
+5.8 E Z
+n
+han
+-0.22 & 5
+QN QN
+o o
+REACTIES Frequente
+combinatie
+Kn. X Z M
+1 1.91
+3 -0.02 38.70
+5 0.02 9,84
+7 5.77
+11 0.00 3.98
+14 0.00 13.88
+OMHULLENDE VAN DE QUASI-BLIJVENDE COMBINATIES
+de ingenieursgroep
+46
+Projectnummer 210936 | | Û
+Revisie
+Project......: 210936
+Onderdeel....: doorbraak achtergevel
+VERPLAATSINGEN [mam ] Quasi-blijvende
+combinatie
+TT en
+-4.39___olie 5
+0.48 ol -0.40 ©
+Zn
+-0.18
+—J —J
+o -0.06 ©
+REACTIES Quasi-blijvende
+combinatie
+Kn. X Z M
+1 1.71
+3 -0.02 34.56
+5 0.02 10.17
+7 5.38
+11 0.00 3.06
+14 0.00 10.38
+OMHULLENDE VAN DE BLIJVENDE COMBINATIES
+VERPLAATSINGEN [mm ] Blijvende
+combinatie
+LT es _
+-2.20___fio »
+770.36 \ =0.44 ©
+— —
+o -0.05 ©
+REACTIES Blijvende
+combinatie
+Kn. X Z M
+1 1.40
+3 -0.02 28.34
+5 0.02 10.65
+7 4,79
+11 0.00 1.68
+de ingenieursgroep
+47
+Project
+Projectnummer 210936 | | Û
+Revisie
+Project......: 210936
+Onderdeel....: doorbraak achtergevel
+REACTIES Blijvende
+combinatie
+Kn. X Z M
+14 0.00 5.14
+STAALPROFIELEN — ALGEMENE GEGEVENS
+Stabiliteit: Classificatie gehele constructie: Ongeschoord
+Belastinggeval m.b.t. bepaling kniklengte: S=Knik
+Aanpassing inkl, parameter C : Steunpunten
+Tweede-orde-effect:
+Aan te houden verhouding n/(n-1)
+voor steunmomenten en verplaatsingen: 1.00
+Doorbuiging en verplaatsing:
+Aantal bouwlagen: 1
+Gebouwtype: Overig
+Toel. horiz. verplaatsing gehele gebouw: hn/150
+Kleinste gevelhoogte [m]: 0.0
+PROFIEL/MATERIAAL
+P/M Profielnaam Vloeisp. Productie Min. drsn.
+nr. LN /mm? ] methode klasse
+1 HEB180 235 Gewalst 1
+2 HEB220 235 Gewalst 1
+3 HEA160 235 Gewalst 1
+4 HEA100 235 Gewalst 1
+5 HEB180 235 Gewalst 1
+6 HEB180 235 Gewalst 1
+Partiële veiligheidsfactoren:
+Gamma M;0 : 1.00 Gamma M;1 : 1.00
+KNIKSTABILITEIT Extra Extra
+Staaf lsys Classif, y lrnik;y aanp. y Classif. z lIknik;z aanp. z
+[m] sterke as [m] [kN] zwakke as [m] [KN]
+1-3 6.800 Ongeschoord 13.880 0.0 Geschoord 6.800 0.0
+2 3.200 Ongeschoord 6.715 0.0 Geschoord 3.200 0.0
+4 3.200 Ongeschoord 7.303 0.0 Geschoord 3.200 0.0
+5 3.200 Ongeschoord 4,305 0.0 Geschoord 3.200 0.0
+6-7 6.800 Ongeschoord 13.858 0.0 Geschoord 6.800 0.0
+8 3.200 Ongeschoord 5.652 0.0 Geschoord 3.200 0.0
+10 0.800 Geschoord 0.800 0.0 Geschoord 0.800 0.0
+11 1.000 Geschoord 1.000 0.0 Geschoord 1.000 0.0
+13 0.900 Geschoord 0.900 0.0 Geschoord 0.900 0.0
+14 3.800 Geschoord 3.800 0.0 Geschoord 3.800 0.0
+KIPSTABILITEIT
+staaf Plts. l gaffel Kipsteunafstanden
+aangr. [m] [ml]
+1-3 1.0*h boven: 6.80 2;1;3,8
+onder: 6.80 2;1;3,8
+2 1.0*h boven: 3.20 3.200
+onder: 3.20 3.200
+4 0.0*h boven: 3.20 3.200
+onder: 3.20 3.200
+5 1.0*h boven: 3.20 3.200
+onder: 3.20 3.200
+6-7 1.0*h boven: 6.80 2,4;0,6;3,8
+onder: 6.80 2,4;0,6;3,8
+8 0.0*h boven: 3.20 3.200
+onder: 3.20 3.200
+10 1.0*h boven: 0.80 0.800
+onder: 0.80 0.800
+48
+Projectnummer 210936 | | |
+Revisie
+Project......: 210936
+Onderdeel....: doorbraak achtergevel
+KIPSTABILITEIT
+Staaf Plts. l gaffel Kipsteunafstanden
+aangr. [m] [ml]
+11 1.0*h boven: 1.00 1.000
+onder: 1.00 1.000
+13 1.0*h boven: 0.90 0.900
+onder: 0.90 0.900
+14 1.0*h boven: 3.80 3.800
+onder: 3.80 3.800
+TOETSING SPANNINGEN
+Staaf P/M BC Sit Kl Plaats Norm Artikel Formule Hoogste toetsing Opm.
+nr. U.C. [N/mm]
+1-3 2 3 1 1 Staaf EN3-1-1 6.3.3 (6.62) 0.419 99 42,46,47
+2 2 4 1 1 Staaf EN3-1-1 6.3.3 (6.61) 0.453 106 47
+4 2 3 1 1 Staaf EN3-1-1 6.3.3 (6.61) 0.363 85 47
+5 6 4 1 1 Staaf EN3-1-1 6.3.3 (6.61) 0.248 58 47
+6-7 1 4 1 1 Staaf EN3-1-1 6.3.3 (6.62) 0.259 61 42,46,47
+8 6 3 1 1 Einde EN3-1-1 6.2.10 (6.31) 0.171 40 47
+10 4 2 1 1 Staaf EN3-1-1 6.3.1.1 (6.46z) 0.020 3
+11 4 2 1 1 My-max EN3-1-1 6,2.5 (6.12y) 0.114 27
+13 3 2 1 1 Staaf EN3-1-1 6.3.1.1 (6.46z) 0.037 9
+14 3 2 1 1 Staaf EN3-1-1 6.3.2 (6.54) 0.620 146
+Opmerkingen:
+[ 42] Waarschuwing: Er sluiten tussentijds staven en/of opleggingen aan.
+[ 461 T.b.v. kip is een equivalente Q-last berekend.
+[ 471 Bij verlopende normaalkracht wordt de grootste drukkracht genomen.
+TOETSING DOORBUIGING
+Staaf Soort Mtg Lengte Overst Zeeg Utot BC Sit u Toelaatbaar
+[Im] 1 J _[mm) [mm] [mm ] [mm ] *1
+1-3 Vloer db 6.80 NN 0.0 1.0 8 1 Eind -1.0 427,2 0.004
+db 7 1 Bijk 1.0 #20.4 0.003
+6-7 Vloer db 6.80 NN 0.0 1.0 8 1 Eind -1.0 427,2 0.004
+db 8 1 Bijk -0.6 420,4 0.003
+11 Vloer ss 1.00 NN 0.0 1.0 8 1 Eind -1.0 28,0 2*0.004
+ss 8 1 Bijk -0.9 +6.0 2*0.003
+14 Vloer db 3.80 NN 0.0 —-9,2 6 1 Eind -9,2 #15.2 0.004
+db 6 1 Bijk 7.1 £11.4 0.003
+TOETSING HORIZONTALE VERPLAATSING
+Staaf BC Sit Lengte Ue ind Toelaatbaar
+[ml] [mm] [mm] [h/1
+2 8 1 3.200 16.4 21.3 150
+4 8 1 3.200 16.4 21.3 150
+3 8 1 3.200 1.7 21.3 150
+8 8 1 3.200 1.7 21.3 150
+TOETSING HOR. VERPLAATSING GLOBAAL
+Er is een maximale horizontale verplaatsing van -0.0241 [ml] gevonden
+bij knoop 8 en combinatie 8; belastingsituatie 1 (combinatietype 2).
+Bij een hoogte van 6.400 [m] levert dit h / 265 (toel.: h / 150).
+DOORBUIGINGEN Karakteristieke
+combinatie
+Nr. staven Zijde positie lrep Wi Wa |-- Woij =| Weot We |-- Wmax =|
+[m] [ram] [mm] [mm] [mm]{lrep/] [mm] [mm] [mm] [lrep/]
+49
+Projectnummer 210936 | if
+Revisie
+Project......: 210936
+Onderdeel....: doorbraak achtergevel
+DOORBUIGINGEN Karakteristieke
+combinatie
+Nr. staven Zijde positie lrep Wi Wa |-- Woij =| Weot We |=-— Wmax =|
+[m] [ram] [mm] [mm] [mm]{lrep/] [mm] [mm] [mm] [lrep/]
+1 1-3 Neg. 1.500 6800 —0.1 -0.9 7423 —-1.0 -1.0 6776
+1 1-3 Pos. 5.850 6800 —0.0 0.9 7527 0.9 0.9 7789
+6 6-7 Neg. 1.920 6800 —0.3 -0.7 9833 —1.0 -1.0 6769
+8 11 Neg. / 2000 —0.1 -0.9 2218 —-1.0 -1.0 2012
+8 11 Pos. / 2000 —0.1 0.8 2435 0.7 0.7 2745
+10 14 Neg. 1.900 3800 —-2.1 7.1 534 —9,2 -9,2 413
+HORIZONTALE VERPLAATSING Karakteristieke
+combinatie
+Nr. staven Zijde h ui uz uz |-- Utoet =|
+[mm] [mm] [mm] [mm] [mm] [h/1
+2 2 Neg. 3200 0.1 -16.1 —16.0 200
+2 2 Pos. 3200 0.1 16.3 16.4 195
+3 5 Neg. 3200 0.4 —7.0 6.7 481
+3 5 Pos. 3200 0.4 1.3 7.7 415
+4 4 _Neg. 3200 0.1 -16.1 —16.0 200
+4 4 Pos. 3200 0.1 16.3 16.4 195
+5 8 Neg. 3200 0.4 —7.0 6.7 481
+5 8 Pos. 3200 0.4 7.3 1.7 414
+7 10 Neg. 800 —0.1 -16.3 —16.4 49
+7 10 Pos. 800 —0.1 16.1 16.0 50
+9 13 Neg. 900 0.5 -23.6 —24.1 37
+9 13 Pos. 900 0.5 23.2 22.7 40
+TOTALE HORIZONTALE VERPLAATSING Karakteristieke
+combinatie
+knoop Zijde h ui uz uz [== Utor =|
+[mm] [mm] [mm] [mm] [mm] [h/1
+8 Neg. 6400 —0.5 -23.6 —24.1 265
+7 Pos. 6400 22.7 22.7 282
+DOORBUIGINGEN Frequente
+combinatie
+Nr. staven Zijde positie lrep Wi Wa |-- Woij =| Weot We |-- Wmax =|
+[m] [ram] [mm] [mm] [mm]{lrep/] [mm] [mm] [mm] [lrep/]
+8 11 Neg. 0.500 1000 —0.1 -0.1 12236 —0.1 -0.1 7065
+10 14 Neg. 1.900 3800 —-2.1 -3.6 1069 —5.6 -5.6 673
+Velden met een wbij en Wmax < lrep/9999 zijn niet afgedrukt
+HORIZONTALE VERPLAATSING Frequente
+combinatie
+Nr. staven Zijde h ui uz uz |-- Utoet =|
+[mm] [mm] [mm] [mm] [mm] [h/1
+3 5 Pos. 3200 0.4 0.2 0.6 5621
+5 8 Pos. 3200 0.4 0.2 0.6 5613
+7 10 Neg. 800 —0.1 -0.1 -0.2 3917
+9 13 Neg. 900 0.5 -0.3 -0.8 1163
+Kolommen met een Wtot < h/9999 zijn niet afgedrukt
+TOTALE HORIZONTALE VERPLAATSING Frequente
+combinatie
+knoop Zijde h ui uz uz [== Utor =|
+[mm] [mm] [mm] [mm] [mm] [h/1
+8 Neg. 6400 —0.5 -0.3 -0.8 8268
+DOORBUIGINGEN Quasi-blijvende
+combinatie
+Nr. staven Zijde positie lrep Wi Wa |-- Woij =| Weot We |-- Wmax =|
+[m] [ram] [mm] [mm] [mm]{lrep/] [mm] [mm] [mm] [lrep/]
+50
+Projectnummer 210936 | if
+Revisie
+Project......: 210936
+Onderdeel....: doorbraak achtergevel
+DOORBUIGINGEN Quasi-blijvende
+combinatie
+Nr. staven Zijde positie lrep Wi Wa |-- Woij =| Weot We |-- Wmax =|
+[m] [ram] [mm] [mm] [mm]{lrep/] [mm] [mm] [mm] [lrep/]
+8 11 Neg. 0.500 1000 —0.1 -0.0 20394 —0.,1 —-0.1 9187
+10 14 Neg. 1.900 3800 —2.,1 -2.1 1782 -—-4.2 -4.2 900
+Velden met een wbij en Wmax < lrep/9999 zijn niet afgedrukt
+HORIZONTALE VERPLAATSING Quasi-blijvende
+combinatie
+Nr. staven Zijde h ui uz uz |-- Utoet =|
+[mm] [mm] [mm] [mm] [mm] [h/1
+3 5 Pos. 3200 0.4 0.1 0.5 6450
+3 8 Pos. 3200 0.4 0.1 0.5 6430
+7 10 Neg. 800 —0.1 —-0.0 -0.2 4645
+9 13 Neg. 900 0.5 -0.2 -0.7 1347
+Kolommen met een Wtot < h/9999 zijn niet afgedrukt
+TOTALE HORIZONTALE VERPLAATSING Quasi-blijvende
+combinatie
+knoop Zijde h ui uz uz |-- Utoet =|
+[mm] [mm] [mm] [mm] [mm] [h/1
+Kolommen op voetplaten:
+78.000 / 200*250 = 1,56 N/mm2 akkoord.
+de ingenieursgroep
+51
+

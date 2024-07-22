@@ -1,0 +1,68 @@
+Van: tn
+Verzonden: donderdag 16 mei 2019 16:21
+Aan: |
+Onderwerp: RE: Aandachtspunten detail-engineering Fietsparkeervooriening lijnbaansgracht
+AS ed
+Checkvraagje voor je:
+Wanneer kan jij een gecontroleerde versie van het aangepaste ontwerprapport DO Fietsvlonder leveren? Lukt dat eind
+volgende week (24, mei),
+Dan kan ik m'n paraaf als TM-er digitaal zetten en is i definitief.
+Met vriendelijke groet,
+Technisch manager
+Ingenieursbureau
+Gemeente Amsterdam
+a
+nend
+Werkdagen: ma, di, do, vr
+Van: GD
+Verzonden: vrijdag 10 mei 2019 17:34
+Aan: GED
+Onderwerp: RE: Aandachtspunten detail-engineering Fietsparkeervooriening lijnbaansgracht
+Mooi dat je dit hebt uitgezocht nu.
+Neem het maar op in het laatste hoofdstuk van het rapport.
+Zet er nog wel even bij of dit Frep krachten zijn of Fd
+Ter info:
+Een vlugge vingeroefening van mij met een kopplaat vierkant 5oo mm en 4 bouten in een vierkant 400-400 levert op:
+4 bouten M16/M20 per paalkopaansluiting.
+Dit is aanvaardbaar, zelfs als het straks M24 wordt komen we hier uit.
+Met vriendelijke groet,
+Technisch manager
+Ingenieursbureau
+Gemeente Amsterdam
+a
+ed
+Werkdagen: ma, di, do, vr
+1
+Van: GED
+Verzonden: vrijdag 10 mei 2019 17:04
+Aan: GED
+Onderwerp: Aandachtspunten detail-engineering Fietsparkeervooriening lijnbaansgracht
+Hallo
+Vandaag had ik de tijd om je gewenste gegevens uit het model te halen. De situatie met maximale Mz en Mx heb ik er
+niet bij gezet omdat de paalkoppen in die richtingen scharnierend zijn opgelegd. Onderstaand akkoord?
+De hoofddraagconstructie in deze rapportage is uitgerekend als een statisch onbepaalde constructie met
+doorgaande hoofd en dwars liggers over meerdere steunpunten. Om die reden wordt geadviseerd om bij een
+deling van de constructie ten behoeve van montage en/of fabricage zo veel als mogelijk rekening te houden met
+de momenten-o-punten in de constructie.
+De volgende zaken dienen nog te worden uitgewerkt bij detail-engineering:
+-_ Alle constructieve lasverbindingen (fabriekslassen) van de hoofddraagconstructie
+-_ Alle constructieve boutverbindingen bij opdeling van de hoofddraagconstructie ten behoeve van
+transport en montage
+-__Hoofddraagconstructie vitvoeren onder Executieklasse 2
+Alle paalkopverbindingen (Hoofddraagconstructie) op basis van een boutverbinding (geen constructieve lassen
+aan het gecoate staalwerk), waarbij rekening moet worden gehouden met een combinatie van de onderstaande
+extreme belasting situaties:
+1) Maatgevende knoopkrachten paalkop bij minimale F‚ en bij maximale M
+Staaf Fz [kN] Vy Vz [kN] Mx My Mz [kNm]
+S1158 -17,54 -0,49 -6,61 0,00 -9,27 0,00
+S202 -117,63 -0,07 18,65 0,00 49,22 0,00
+2) Extreme paalmisstanden tot 200 mm
+Vriendelijke groet,
+ed
+Specialist
+Ingenieursbureau
+Gemeente Amsterdam
+D
+ed
+2
+
