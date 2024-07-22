@@ -1,27 +1,28 @@
-# Woo Document Analysis
+# RAG for open.amsterdam
 
-This repository contains code for the analysis of documents related to the Open Government Act.
+By experimenting with AI technologies with significant potential impact on the City of Amsterdam, we learn about their capabilities, potential value, performance, and side effects. ​
+Recently, we researched the use of **Retrieval Augmented Generation within the municipal context**, and more specifically, for **answering citizens' questions on the [open.amsterdam](https://open.amsterdam/) website**. 
+This repository contains the corresponding code.
 
-The Open Government Act (Wet open Overheid, WOO) requires govermental organizations to actively dislose information.
+## Woo Background
+
+The Open Government Act (Wet Open Overheid, WOO) requires governmental organizations to disclose information actively.
 Documents published by the City of Amsterdam can currently be found on 
 [https://open.amsterdam/](https://open.amsterdam/),
 [https://amsterdam.raadsinformatie.nl/](https://amsterdam.raadsinformatie.nl/)
 and [https://openresearch.amsterdam/](https://openresearch.amsterdam/).
 
-We investigate recent technological advances such as the use of Large Language Models to improve the searchability and accessbility of these documents. 
+While information is now publicly available, searching and interpreting the corresponding documents can be a challenging task for citizens.
+We researched how Retrieval Augmented Generation (RAG) can help us **increase transparency, inclusivity, user-friendliness and efficiency** by allowing citizens to ask questions about publicly available documents in natural language.​
 
-## Background
+The **final report** for the project can be found **on openresearch** in [English](https://openresearch.amsterdam/en/page/110995/rag-for-open.amsterdam%E2%80%8B) and [Dutch](https://openresearch.amsterdam/nl/page/110995/rag-for-open.amsterdam%E2%80%8B).
+
 
 ## Folder Structure
 
 * [`data`](./data): Sample data for demo purposes
-* [`docs`](./docs): If main [README.md](./README.md) is not enough
-* [`notebooks`](./notebooks): Jupyter notebooks / tutorials
-* [`res`](./res): Relevant resources, e.g. [`images`](./res/images/) for the documentation
-* [`scripts`](./scripts): Scripts for automating tasks
-* [`src`](./src): All sourcecode files specific to this project
-* [`tests`](./tests) Unit tests
-* ...
+* [`notebooks`](./notebooks): contains examples of the RAG pipeline using [`llama-index`](./notebooks/llama_index.ipynb/), [`langchain`](./notebooks/langchain.ipynb/) and [`transformers`](./notebooks/transformers.ipynb/), as well as a comparisong of [`chunking strategies`](./notebooks/chunking.ipynb/)
+* [`src`](./src): some LLM helpers
 
 ## Installation 
 
@@ -32,45 +33,16 @@ git clone https://github.com/Amsterdam-AI-Team/Woo-document-analysis.git
 ```
 
 
-2) Install all dependencies:
-    
-```bash
-pip install -r requirements.txt
-```
-
-
-The code has been tested with Python x.x on Linux/MacOS/Windows. 
-
-## Usage
-
-## How it works
-
-Can be divided in subsections:
-
-### Data Collection
-#TODO
-
-### Text Extraction
-#TODO
-
-### Text Analysis
-#TODO
-
-### Question Answering
-#TODO
+The code has been tested with Python 3.9 on Linux. 
 
 
 ## Contributing
 
 Feel free to help out! [Open an issue](https://github.com/Amsterdam-AI-Team/Woo-document-analysis/issues), submit a [PR](https://github.com/Amsterdam-AI-Team/Woo-document-analysis/pulls) or [contact us](https://amsterdamintelligence.com/contact/).
 
-
-
 ## Acknowledgements
 
-This repository was created by [Amsterdam Intelligence](https://amsterdamintelligence.com/) for the City of Amsterdam.
-
-
+This repository was created by [Amsterdam Intelligence](https://amsterdamintelligence.com/) for the [open.amsterdam](https://open.amsterdam/) and the City of Amsterdam.
 
 ## License 
 
