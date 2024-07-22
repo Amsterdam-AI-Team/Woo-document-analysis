@@ -8,7 +8,7 @@ TEST_PROMPTS = [
     "Waarom is de van woustraat nu zo lang gesloten?",
     "Wat doet Amsterdam tegen fat bikes?",
     "Bij deze verzoek ik alle documenten en correspondentie omtrent de eredivisiewedstrijd Ajax-Feyenoord van afgelopen 24 september 2023 van 10-09-2023 tot 26-9-2023.",
-    "Geef mij een overzicht van alle meldingen over Café Triple aan Lijnbaansgracht 161."
+    "Geef mij een overzicht van alle meldingen over Café Triple aan Lijnbaansgracht 161.",
 ]
 
 CONFUSION_PROMPTS = [
