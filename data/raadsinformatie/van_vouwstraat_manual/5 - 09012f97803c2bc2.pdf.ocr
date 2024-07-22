@@ -1,0 +1,890 @@
+> < Gemeente versie definiet
+Amsterdam s5september 2020
+Rapportage VMA & VISSIM
+Circulatiemaatregelen Van Woustraat
+Inhoudelijke rapportage en kennisoverdracht van verkeersstudies en
+verkeerssimulaties naar een pakket van autoluwe circulatiemaatregelen
+Gemeente Amsterdam Versie definitief
+Programma Autoluw — Verkeer en Openbare Ruimte Versienummer 1.1
+
+25 september 2020
+Rapportage VMA & VISSIM — Circulatiemaatregelen Van Woustraat
+Inhoud
+1 Inleiding … sss snsnnnnnonern veren senennnenenseerersenennnnenrenenvenennnnnnenvensensennnnnenrnn vens envenennn 3
+1.1 Aanleiding nne neneennenneeneeenenneenenenvenneenvenvennvenvennennvenveenveneneneenvenvensvenvenvennvenveenvenee 3
+1.2 Doel verkeersstudies.… nnn nnanneeneenenennenenneenennereenenvennenenenerennenenneenenneenensenensenenenveennerennenen 3
+1.3 Doel notitie (leeswijzer) … nnn annen ane eene rene eene eeenereneeenverenenenenenenenveeneeenneennvennvveneenneeenen 3
+1.4 Studiegebied ………… nanne enennee enen veneenevensennvenvenvennvenenenvenvennvenvenvensvenvenvennvenveeneenee 3
+1.5 Prognose cijfers … nanne ennen eneen venvenveneeneenenenen eene eneneevenvenvenvenveneneveneneevenvenvenvenvene Áe
+1.6 Samenvatting … annava enneenneenneennerene rene venenveneeeneeenveenveneneeenenenseeenvenveneeneenenrnerenen 5
+2 Verkeersmodel Amsterdam (VMA) noen oee eenen neren en enseneenen sneven ennenn ene vnenvnernen en Ó
+2.1 Toelichting VMA … none eenen envennennveneeenvenneenvenvenvenvennennveneeenveneneneenvenvennvenveeneenee Ó
+2.2 Opbouw/inrichting … nennen envenvennveneeenveneeenerenenevenvennennveneeenvenvenvenvenvennvenveeneenee Ó
+2.2.1 ZONES anneer enneeeee vene erreennnerenennenrreennn nere venneereennnnnrveennneereennnneevennneeveennneeveennneernennnnervennnn Ó
+ENA
+2.2.3 Herkomst & bestemmingen … nennen envenvensveneeenenseennvenvenveneeenvenvenseenvenvennenenen Ö
+2.2.4 IJking & routekeuzes… nnn eneen nnen veneenneenveneerneenenseenenenvenvenneenvenveneesvenvennvenven Ö
+2.3 Uitgangspunten … nana nnenserrenserennenenneerenseereneernnnereneneerensennnvenenseerenserrenenvenvenenseerensereneneen O
+2.3.1 Algemeen … nnee eneen enen enen eneeennvenneenseerenvenvenseerneeene eend eervenensvenveenvvennvennvenneennerenn G
+2.3.2 Referenties 2018 & 2030 ….….nnn nanne enen enen ennvenneenennnerenneeneennenenveneneenneneneneneneneneneenneennn vene eennn Q
+2.4 Maatregelvariant: knip Van Woustraat … nonnen enen enenseeneneneeneeneeenereneneenvenveneenee LO
+2.5 Resultaten …nnnnn nnn enneenenneer ener eensenenneenennenennenenenevennenennenenneenennenennenennnnveneeeennenennenenseeeennereen 1
+2.5.1 Knip Van Woustraat (nu, netwerk 2018) … annen eneen enneenennerenneneneenenneeeenseeenveneneren 1
+2.5.2 Knip Van Woustraat (2030) … nnee neren nenneerneneneerneneneernennneerevenneereennnerreennnereennnneer ven 12
+2.6 Conclusie … nanne nennen eneen ennereeneeeensenenneenenneneennenenneenenneneenenennnenenneeenenenenneeenneenenseeeennereneneee 13
+3 Verkeerssimulatie (VISSIM) … … annen eener eennenenseenee nnen enen enen enernnenen eere nerenerene 1
+3.1 Toelichting VISSIM t.o.v. VMA nnee en eeneenenenvenvenenenvennvenvenveeneeneeneeenvenvenneenere Ll
+3.2 Toelichting kruispuntsimulaties … nennen eeen eene eene eenveneneeeneevenveneveneenvenneenneerneeen LB
+3.2.1 Verkeersregeling … nnen oneven enveneenenenvenneerennennveneeenvenveneeenvenvenneenveneernvenveeneen 15
+3.2.2 Wachtrijen … nennen enneeneeeneneenenenvenvenverenenevenvenvennvenveenvenvenevenenvennvenvenvennvenveeneen 1
+3.2.3 Reistijdverschillen/doorstroming … nennen ennen enneenenneenenenveneenenenerenenseenveneenneenveeneen 1
+3.3 Uitgangspunten VISSIM … nanne eene eennenenenenveenvereneeenenenseenevennvenneenseenseernnveneeenveen 17
+3-4 Onderzoek nnn anneer ene neennenenneenennereenenennnenennnerennenenneenenneenennenenneerneneeenerennenenneenenneeeennen. 1
+3.4.1 Onderzoeksgebied 1: ‘west’ … nnen en eeneenenenveneenenenvennennvenveeneeneeneeenvenveneeenere 18
+3.4.2 Onderzoeksgebied 2: ‘oost! … nnee ene eene eene eeneeenvenenenenseeneeeneveneennvenneenneerneeeen 1)
+3-4-3 Sluipverkeer … nnn ann enennenennneenneenenneerennenenneneneeenennenenseneneeneneeeenenennneneneneeenerennenenneeeennene 21
+3-5 Conclusie …..….nnnnnnn annen eneenenennenenneenenneereneenenseneneneenennenenseneneenenneeeennnvenseneneeeenerennseenneenennnnr 21
+Gemeente Amsterdam Versie definitief
+Programma Autoluw — Verkeer en Openbare Ruimte Versienummer 1.1
+
+25 september 2020
+Rapportage VMA & VISSIM — Circulatiemaatregelen Van Woustraat
+1 Inleiding
+1.1 Aanleiding
+In het kader van de autoluw ambitie van de coalitie werkt het programma Autoluw aan gerichte
+ingrepen in de verkeerscirculatie. Met slimme ingrepen in de autocirculatie kan de sitvatie voor
+fietsers, voetgangers en OV verbeteren. Deze maatregelen zorgen op korte termijn voor
+concentratie van autoverkeer op wegen die hier beter op zijn toegerust. Modelmatig wordt met
+het verkeersmodel Amsterdam en verkeersimulaties het effect van de ingrepen in de
+verkeerscirculatie onderzocht. De resultaten van deze studie geven inzicht in het effect op de
+intensiteiten op het (hoofd)wegennet en doorstroming op de kruisingen.
+1.2 Doel verkeersstudies
+Doel van deze exercitie is om inzicht te krijgen waar gemotoriseerd verkeer naar toe verplaatst als
+de circulatiemaatregelen genomen zijn. Het basis vitgangspunt hierbij is dat verkeer niet zomaar
+‘verdwijnt’, maar een andere route gaat rijden. Dit is een zogeheten worst-case benadering, omdat
+in werkelijkheid verkeer ook kan kiezen voor een andere bestemming.
+Uit meerdere onderzoeken is gebleken dat er, bij aanpassing van de verkeerscirculatie, geringe
+uitwisseling ontstaat tussen auto en andere modaliteiten. We gaan er daarom vanuit dat met het
+invoeren van circulatiemaatregelen geen verandering van modaliteiten (modalshift) optreedt. De
+gestelde doelstelling is te weten waar het verkeer naartoe verplaatst en hoe kan worden
+voorkomen dat er problemen in de doorstroming ontstaan.
+1.3 Doel notitie (leeswijzer)
+De informatie vit deze notitie biedt inzicht in de werkwijze die is toegepast, alsook een
+kwantitatief beeld van de gevolgen van ingrepen in de verkeerscirculatie. De informatie uit deze
+rapportage is onderdeel van de nota van vitgangspunten voor de herinrichting van het noordelijk
+deel Van Woustraat.
+De verkeersstudies vit deze notitie zijn gefocust op de effecten van autoverplaatsingen;
+onderzoek naar effecten voor andere modaliteiten zijn wel onderdeel in de kruispuntanalyses,
+maar geen onderdeel waar het gaat over intensiteiten of reistijden op bepaalde wegvakken.
+1.4 Studiegebied
+Voor deze studie is in basis het onderzoeksgebied beschouwd vit Figuur a. Eris viteindelijk verder
+gekeken dan alleen dit onderzoeksgebied.
+3
+Gemeente Amsterdam Versie definitief
+Programma Autoluw — Verkeer en Openbare Ruimte Versienummer 1.1
+25 september 2020
+Rapportage VMA & VISSIM — Circulatiemaatregelen Van Woustraat
+. ut in
+MSTEL …
+/ ee \ Vv 5 h \= 7
+| P
+N Á Ds
+Ve
+5
+FREDERIKS
+/,
+Ne nm DEEEN
+7
+Òg 4 Ss
+KADE
+EL
+Oo
+WJ
+> | ‘
+8 Ti re
+m , pie
+> SARPHATI > ox
+, ap 4 \
+Figuur 1 — Onderzoeksgebied
+De berekeningen zijn vitgevoerd met het verkeersmodel Amsterdam (VMA) versie 2.52.
+1.5 Prognose cijfers
+Voor de onderbouwing van (maatregel 16 van) de Agenda Amsterdam Autoluw zijn de resultaten
+van een indicatieve prognosestudie gepresenteerd. De prognosestudie is de eerste fase geweest
+waarin indicatieve prognoses zijn gedaan voor het effect van de maatregelen in de
+verkeerscirculatie. In de prognosestudie is geen gebruik gemaakt van het VMA, maar van data uit
+kentekenonderzoeken en telgegevens van verkeerslichten. De indicatieve prognoses waren
+voldoende voor een richtinggevend voornemen in de Agenda Amsterdam Autoluw, maar voor de
+besluitvorming van projecten is een meer gedetailleerde studie met het VMA en
+verkeerssimulaties (VISSIM), ook juridisch, noodzakelijk.
+4
+Gemeente Amsterdam Versie definitief
+Programma Autoluw — Verkeer en Openbare Ruimte Versienummer 1.1
+25 september 2020
+Rapportage VMA & VISSIM — Circulatiemaatregelen Van Woustraat
+1.6 Samenvatting
+Met het Verkeersmodel Amsterdam (VMA) en kruispuntsimulaties is onderzocht wat de
+verkeerskundige effecten zijn van de circulatiemaatregelen. Dit onderzoek toont aan of aan de
+randvoorwaarden wordt voldaan (per saldo autoluwer & waarborgen doorstroming).
+Er is berekend wat een knip in het noordelijk deel van de Van Woustraat zowel nu als in 2030 voor
+effecten heeft.
+Hierbij wordt opgemerkt dat het VMA beleidsarm werkt. Dat wil zeggen dat puur de effecten van
+deze maatregelen zijn berekend (in het hele gebied), en geen eventuele aanvullende effecten van
+andere of toekomstige beleidskeuzes zijn meegenomen. De autonome groei van inwoners en
+arbeidsplaatsen tot 2030 is wel meegenomen.
+In onderstaande tabel staan de uitkomsten van de verkeersberekeningen met VMA samengevat.
+Amsteldijk noord 19.900 22% 24.300 22.500 21% 27.200
+Amsteldijk zuid 18.200 18% 21.400 20.400 18% 24.000
+Stadhouderskade oost 24.100 17% 28.200 25.200 19% 30.000
+Stadhouderskade west 26.900 3% 27.700 28.700 -2% 28.100
+Van Woustraat noord 7.700 -84% 1.200 8.600 -85% 1.300
+Van Woustraat zuid 6.900 -D1% 3.400 8.100 -53% 3.800
+Ceintuurbaan oost 9.000 8% 9.700 10.100 7% 10.800
+Ceintuurbaan west 12.600 -2% 12.300 13.800 -3% 13.400
+Hobbemakade 9,700 15% 11.200 10.500 16% 12.200
+Per locatie v.l.n.r.:
+Intensiteit referentie situatie | Percentuele toename of afname | Intensiteit maatregelvariant
+De intensiteiten zijn het totaal van een etmaal en de twee rijrichtingen samen.
+Uit de kruispuntsimulaties is gebleken dat de kruispunten met een aantal aanpassingen in de
+verkeersregelingen, beperkte fysieke ingrepen en een nieuw kruispuntontwerp voor het kruispunt
+Stadhouderskade-Van Woustraat de gewijzigde verkeersstromen kunnen verwerken en dat de
+doorstroming op een aantal plekken zelfs verbeterd.
+5
+Gemeente Amsterdam Versie definitief
+Programma Autoluw — Verkeer en Openbare Ruimte Versienummer 1.1
+
+25 september 2020
+Rapportage VMA & VISSIM — Circulatiemaatregelen Van Woustraat
+2 Verkeersmodel Amsterdam (VMA)
+2.1 Toelichting VMA
+Verkeer en Openbare Ruimte (V&OR) van gemeente Amsterdam maakt voor haar
+verkeersberekeningen gebruik van het verkeersmodel VMA (Verkeersmodel Amsterdam). Het
+VMA is een stedelijk verkeersmodel voor de stad Amsterdam voor strategische weg- en OV-
+studies. De basis voor het model bestaat uit onderzoeksgegevens uit verkeersenquêtes,
+verkeerstellingen, kenmerken van het wegen- en openbaarvervoernet en kennis over de
+ruimtelijke ordening in termen van aantallen inwoners en arbeidsplaatsen. Voor het verleden en
+het heden zijn deze gegevens bekend, voor de toekomstige situatie worden inschattingen hiervan
+gebruikt.
+2.2 Opbouw/inrichting
+In de volgende paragrafen wordt een beknopte toelichting gegeven op de opbouw en inrichting
+van het VMA. In combinatie met de schematische figuren geeft dit een gevoel bij hoe het model
+werkt en wat het model doorrekent.
+2.2.1 Zones
+Het VMA is voor te stellen als een model waarbij verschillende lagen met elkaar interacteren. De
+eerste laag in de opbouw van het VMA zijn de verschillende zones. De zones omsluiten
+Amsterdam en de omliggende regio’s. De rest van Nederland is, als buitengebied, als een beperkt
+aantal zones gedefinieerd. Tussen de verschillende zones vindt interactie plaats, dat zijn de
+verplaatsingen die het VMA modelleert; bijvoorbeeld een automobilist die van zone A (woning)
+naar zone C (werkplek) verplaatst.
+Figuur 2 - Schematisch de zones
+6
+Gemeente Amsterdam Versie definitief
+Programma Autoluw — Verkeer en Openbare Ruimte Versienummer 1.1
+25 september 2020
+Rapportage VMA & VISSIM — Circulatiemaatregelen Van Woustraat
+2.2.2 Netwerken
+De volgende laag die over de zones ligt is de laag netwerken. Een netwerk bestaat uit lijnstukken
+en knopen die samen het netwerk vormen. Schematisch is dat als volgt weer te geven:
+I=
+|
+BENE LSE
+ee Nie /
+NÁd
+LS © N/ \
+of GTL A/S
+=O Oh ZD ——
+== aN
+O
+Dee
+© _
+Ll TN En
+O I Ne
+Ö
+Figuur 3 - Schematisch de netwerken
+Netwerken bevatten informatie die omschrijven hoe een modaliteit zich in dit netwerk moet
+gedragen. De lijnstukken zijn een schematische weergave van wegvakken en bevatten informatie
+over de rijrichting, toegestane maximum snelheid, capaciteit (aantal rijstroken) etc. Knooppunten
+bevatten informatie over de kruisingen, bijvoorbeeld of een kruispunt geregeld is met
+verkeerslichten of dat bepaalde rijrichtingen niet mogelijk zijn.
+Zoals Figuur 3 weergeeft bevat VMA verschillende netwerken voor verschillende modaliteiten. In
+Figuur 3 is dit schematisch beperkt tot auto-, taxi- en vrachtverkeer, maar VMA heeft daarnaast
+ook een openbaarvervoer- en fietsnetwerk. Tijdens deze studie zijn de effecten voor auto, taxi en
+vrachtverkeernetwerken beschouwd. In deze studie is in de vrachtverkeernetwerken onderscheid
+gemaakt in o.a. zwaar vracht en bestelauto's. Op basis van de VMA resultaten in combinatie met
+de verkeerssimulaties (VISSIM) kan ook informatie gegeven worden over effecten op het
+openbaarvervoer en fietsers. In de rapportage is dit buiten beschouwing gelaten.
+Het taxinetwerk dat in Figuur 3 schematisch is weergegeven is specifiek voor deze studie
+gebouwd. Een taxi is in vergelijking met een personenauto een bijzonder soort weggebruiker. Een
+taxi mag op plekken rijden waar een personenauto dat niet mag, bijvoorbeeld met een
+trambaanontheffing. Omdat verkeersonderzoeken laten zien dat taxi's een grote groep
+weggebruikers zijn in Amsterdam is er (in deze studie voor het eerst) voor gekozen deze groep
+weggebruikers modelmatig van hun eigen netwerk te voorzien.
+Voor vrachtverkeer geldt ook dat een beperkt netwerk tot hun beschikking is in vergelijking met
+personenauto's. Ook hier geldt een alternatief netwerk. Dit is een standaard in reguliere VMA
+studies.
+Voor de automobilist, die van zone A naar zone C wilt, is het rode netwerk tot zijn beschikking.
+Afhankelijk van de onderliggende netwerkeigenschappen kan de automobilist de route via het
+netwerk in zone A en B naar zone C gebruiken, maar bijvoorbeeld ook via het netwerk in Zone A, D
+en E naar zone C.
+7
+Gemeente Amsterdam Versie definitief
+Programma Autoluw — Verkeer en Openbare Ruimte Versienummer 1.1
+25 september 2020
+Rapportage VMA & VISSIM — Circulatiemaatregelen Van Woustraat
+2.2.3 Herkomst & bestemmingen
+De zones en het netwerk worden vervolgens gevoed door de herkomst- en bestemmingsmatrix.
+Dit gebeurt op basis van woonplaatsen en arbeidsplaatsen, maar ook vrijetijdsbesteding en
+parkeerregimes. Elke zone heeft een bepaalde herkomst (aantal inwoners) en bestemmingen
+(arbeidsplaatsen, parkeergarages etc). Onderstaande wederom een schematische weergave.
+eve
+Br Om Q
+ND ar’
+bo NES
+À Nel /
+| N\ on
+| Aa) TÔ
+/_ NN
+of GT ( KX Inwoners 2
+O0 ( .
+| == 1 \\ Arbeidsplaatsen Gr
+\ OO Scholing 66
+9 | me
+O | U
+ús en Parkeren Te
+ee Vrijetijdsbesteding wm
+Figuur 4 - schematisch de herkomst & bestemmingen
+Voor deze studie is voor de inwonersaantallen en arbeidsplaatsen uitgegaan van de basis socio-
+economische gegevens uit het VMA zelf voor het jaar 2018 en 2030.
+Deze gegevens vullen de herkomst- en bestemmingsmatrix die modelmatig beslist welke
+interactie plaatsvindt tussen de verschillende zones. Dit is een grote tabel die voor het netwerk
+invult dat er bijvoorbeeld een x aantal verplaatsingen tussen zone A en B plaatsvindt, waarvan een
+deel met de auto, een deel met ov en een deel met de fiets gaat. De herkomst- en
+bestemmingsmatrix bevat deze informatie voor heel Amsterdam, de omliggende regio's en de
+interactie met de rest van Nederland.
+2.2.4 IJking & routekeuzes
+De vitkomsten van de routekeuze in VMA (de intensiteiten) worden standaard geijkt. Voor het
+doel van deze studie is er echter voor gekozen de herkomst- en bestemmingsmatrix voor
+autoverkeer van en/of naar het centrumgebied (binnenstad en 19e-eeuwse ring) te kalibreren met
+behulp van de uitkomsten van de meest recente kentekenonderzoeken om zo de uitkomsten nog
+beter aante laten sluiten op de werkelijkheid’. Daarnaast zijn de kentekenonderzoeken gebruikt
+om de verdeling tussen vrachtwagens en personenvoertuigen vast te stellen en taxiverkeer als
+aparte voertuigcategorie toe te voegen.
+De aangepaste matrices zijn vervolgens ingelezen in het verkeersmodel en toegedeeld aan het
+1 Zes autoluwe wijken in een bereikbare stad, 2018 en Resultaten kentekenonderzoek Oudezijde, 2017
+8
+Gemeente Amsterdam Versie definitief
+Programma Autoluw — Verkeer en Openbare Ruimte Versienummer 1.1
+
+25 september 2020
+Rapportage VMA & VISSIM — Circulatiemaatregelen Van Woustraat
+netwerk. De routekeuzes zijn daarna geijkt aan de hand van de huidige situatie op basis van
+telgegevens van verkeerslichten. Voor elke variant geldt dat de verkeersintensiteiten berekend
+zijn middels hertoedelingen. Dit houdt in dat het totaal aantal verkeersbewegingen gelijk blijft en
+er alleen routekeuze-effecten in beeld worden gebracht. Op deze manier wordt er een worst case
+scenario berekend. In het geval van het totale pakket van autoluwe maatregelen zoals die in de
+Agenda Amsterdam Autoluw zijn opgenomen, is het aannemelijk dat het aantal
+verkeersbewegingen met de auto lager wordt en worden mensen gestimuleerd andere keuzes te
+maken. Een andere keuze kan zowel een andere route zijn of de keuze voor een andere
+bestemming al dan niet andere vervoerswijze. In deze studie is hier dus geen rekening mee
+gehouden.
+2.3 Uitgangspunten
+Aanvullend op de opbouw en inrichting van het VMA gelden nog aanvullende uitgangspunten. In
+de volgende paragrafen worden deze nader beschreven.
+2.3.1 Algemeen
+De studie is op basis van hertoedeling van het verkeer. Dit betekent dat er modelmatig vanuit
+wordt gegaan dat het totaal aantal verkeersbewegingen gelijk blijft. Er wordt op basis van de
+netwerkaanpassingen alleen gekeken naar de routekeuze-effecten. Een automobilist besluit
+(modelmatig) bijvoorbeeld niet een andere modaliteit te gebruiken (modalshift) of naar een
+andere bestemming af te reizen.
+Het onderzoek met VMA is een studie naar de herverdeling van het verkeer en wat dit betekent
+voor de intensiteiten op verschillende wegen. Verschillende momenten op de dag zijn bekeken
+(ochtendspits, avondspits en de rest van de dag). Gezamenlijk geeft dit inzicht in de
+etmaalintensiteiten op een bepaald wegvak. Wat de intensiteit voor de doorstroming betekent
+wordt onderzocht met een verkeerssimulatie (VISSIM). Hier wordt in hoofdstuk 3 verder op in
+gegaan.
+2.3.2 Referenties 2018 & 2030
+Om de ingrepen in de verkeerscirculatie te kunnen vergelijken zijn eerst referentievarianten
+opgesteld voor 2018 en 2030. Voor beide referentievarianten is rekening gehouden met
+netwerkaanpassingen waarover reeds een bestuurlijk besluit is genomen, namelijk:
+
+-__hetinstellen van eenrichtingsverkeer op de Museumburg;
+-_ (circulatie}aanpassingen rondom het gebied Sarphatistraat-Amstel.
+
+Voor de referentievariant 2030 geldt, aanvullend op het netwerk uit 2018, het uitgangspunt dat dit
+een beleidsarm model is. Dat wil zeggen dat er in de referentie van 2030 gerekend wordt met het
+huidige beleid en toekomstige beleidskeuzes zijn vitgesloten. Met de autoluw ambitie zoals die op
+dit moment door de coalitie is ingezet mag deze benadering van de referentievariant 2030 als een
+‘worst case’ worden aangemerkt.
+9
+Gemeente Amsterdam Versie definitief
+Programma Autoluw — Verkeer en Openbare Ruimte Versienummer 1.1
+25 september 2020
+
+Rapportage VMA & VISSIM — Circulatiemaatregelen Van Woustraat
+2.4 Maatregelvariant: knip Van Woustraat
+Het meest noordelijke deel van de Van Woustraat is een onaantrekkelijke, onveilige en drukke
+stadsstraat. De straat heeft een belangrijke netwerkfunctie in het Plusnet Fiets. Om deze redenen
+heeft de raad tot een knip in het noordelijk deel van de Van Woustraat besloten. Met een knip voor
+het autoverkeer in de noordelijke Van Woustraat neemt het verkeer ter plekke af en wordt het
+mogelijk van de Van Woustraat een aantrekkelijke straat te maken. Door de tramhaltes op het
+Westeinde te verplaatsen naar de locatie van de knip (tussen de Stadhouderskade en de
+Hemonylaan), verbetert de OV-bereikbaarheid aan de oostkant van de Albert Cuypmarkt.
+De ingreep in de verkeerscirculatie die de Agenda Amsterdam Autoluw voorstelt is een knip in het
+noordelijk deel van de Van Woustraat; bij de aansluiting van de Van Woustraat met de
+Stadhouderskade. Deze knip wordt gecombineerd met een knip bij de Hemonystraat. De
+Hemonystraat wordt hierdoor ook ontkoppeld van de Stadhouderskade, met een uitzondering
+voor zwaar vrachtverkeer.
+In paragraaf 2.5 Resultaten wordt voor de variant voor de verschillende “thermometer locaties’
+ingegaan op de ontwikkeling van de etmaalverkeersintensiteiten als gevolg van de
+circulatiemaatregel.
+2.5 Resultaten
+Onderstaand worden de resultaten van de doorgerekende variant met de betreffende referentie
+(2018 of 2030) vergeleken. In de kaartjes is op de locaties van de thermometer steeds het volgende
+weergegeven:
+
+Intensiteit referentie variant | Percentuele toename of afname | Intensiteit maatregelvariant
+De intensiteiten zijn het totaal van een etmaal en de twee rijrichtingen samen.
+10
+Gemeente Amsterdam Versie definitief
+Programma Autoluw — Verkeer en Openbare Ruimte Versienummer 1.1
+25 september 2020
+Rapportage VMA & VISSIM — Circulatiemaatregelen Van Woustraat
+2.5.1 Knip Van Woustraat (nu, netwerk 2018)
+In de situatie dat nu alleen de maatregelen aan de westkant worden uitgevoerd ontwikkelen de
+verkeersintensiteiten (per etmaal, twee richtingen samen) als volgt:
+NS a pn <
+\
+zer u VMA 2018 VARIANT
+ep, FREDERIKS
+d Ve en, PLEIN
+: À SCHANS
+/ 5
+Cp SHK oost /_(lz pl
+MusEuM S kan €) EES os geer”
+PLEIN - SHK west 6) ip ad |
+o 26.300 | 3% | 27.700 kf g AS
+nip zer?
+os
+19.900 | 22% | 24.300 é Ó
+: EN
+P EL 7.700 |-84%| 1.200
+ä mt KL 9.000 | 3% 9.700
+\ 2 SARPHATI > ok” 5
+ve AP 5 ®
+ee LPAP E Amsteldijk zuid 7,
+1OELOF dry) Ceintuurbaan west $ at 48.200] zex | 21.400 & é
+KRTPLEIN gg 12600 | 2% | 12 300 Ze 7 ON mnl
+\ 5 > DR
+Ö EU
+» c KA
+dr E 2 u
+9.700 | 15% | 11.200 Ri Van Wou zuid pes! KN
+D 6.900 |-s1%|_ 3.400 en Wi
+) E 5 '
+C Ee 5 «
+A e SIE e
+“ Er
+* NT
+> mn
+®
+Er
+Ë HURCHIEL- LAAN pStAAN
+Ex vRtel
+e ús VICTORIE >
+Figuur 5 - Ontwikkeling intensiteiten t.g.v. maatregel nu
+Zichtbaar is dat de maatregel voldoende verkeersafname realiseert om de autoluwe ontwikkeling
+van de Van Woustraat te faciliteren. Dit gaat echter gepaard met een toename van de intensiteit
+op de omliggende wegen die onderdeel zijn van o.a. het plusnetauto (Stadhouderskade S100,
+Amsteldijk 5110).
+VMA geeft een eerste indicatie van de doorstromingen op de kruisingen. Op basis hiervan zijn
+tenminste de kruisingen Stadhouderskade-Weteringcircuit en Torontobrug-Wibautstraat
+aangemerkt om in een verkeerssimulatie (VISSIM) nader te onderzoeken op doorstroming en
+verkeersafwikkeling. In de uiteindelijk verkeerssimulatie is het lokale netwerk van kruisingen
+doorgerekend.
+11
+Gemeente Amsterdam Versie definitief
+Programma Autoluw — Verkeer en Openbare Ruimte Versienummer 1.1
+25 september 2020
+Rapportage VMA & VISSIM — Circulatiemaatregelen Van Woustraat
+2.5.2 Knip Van Woustraat (2030)
+In de situatie dat in 2030 de knip in het noordelijk deel van de Van Woustraat is uitgevoerd
+ontwikkelen de verkeersintensiteiten (per etmaal, twee richtingen samen) als volgt:
+(l) Let op, in deze situatie wordt de maatregelvariant vergeleken met de referentievariant 2030; dat
+betekent dat het effect van de maatregelen berekent is bovenop de autonome groei.
+N ae pn
+\
+NA u VMA 2030 VARIANT
+27 FREDERIKS
+d Ve pv, PLEIN
+: À SCHANS
+/ 5
+Cp SHK oost /_(lz pl
+PLEIN - SHK west 6) ip ad |
+o 28.700 | -2% | 28.100 kf gn NN
+mo Alg Amsteldijk noord gent
+©
+22.500 | 21% | 27.200 é o9
+: EN
+P EL 8.500 |-85%| 1.300
+ä mt KN 10.100 | 7% | 10.800
+‘ 2 SARPHWATI > ob” Ee 2
+Z PAP £ Amsteldijk zuid 5
+2OELOF es Ceintuurbaan west’ f 2 20.400 | 18% | 24.000 5 4
+KRTPLEIN Ogg 13200) 3% | 15.400 Ze r Om!
+f 5 5 5 iN
+O al 5 1
+= ee 5 % À v
+Hobbemakade © Es
+H Van Wou zuid p en 1e
+» 8.100 |-53x| 3.500 4 n 4
+3 P a) t
+C Ee 5 «
+kN e CE Te
+KN | Ee
+* ee
+> mn
+P
+6
+E HURCHIEL- LAAN pStAAN
+== vante
+e ús VICTORIE >
+Figuur 6 - Ontwikkeling intensiteiten maatregelen west 2030
+Deze doorrekening laat een vergelijkbare situatie zien als voor 2018. Op de Van Woustraat neemt
+de verkeersintensiteit voldoende af om de autoluwe baten te realiseren. Dit gaat gepaard met een
+toename van de verkeersintensiteit op de omliggende wegen, zoals de S100 (Stadhouderskade) en
+S110 (Amsteldijk).
+Ook in deze doorrekening is zijn de kruisingen Stadhouderskade-Weteringcircuit en Torontobrug-
+Wibautstraat aangemerkt om in een verkeerssimulatie (VISSIM) nader te onderzoeken op
+doorstroming en verkeersafwikkeling. Voor deze doorrekening moet dus zowel een 2018 als 2030
+studie uitgevoerd worden. Ook hier geldt dat met de uiteindelijk verkeerssimulatie het lokale
+netwerk van kruisingen is doorgerekend.
+12
+Gemeente Amsterdam Versie definitief
+Programma Autoluw — Verkeer en Openbare Ruimte Versienummer 1.1
+
+25 september 2020
+Rapportage VMA & VISSIM — Circulatiemaatregelen Van Woustraat
+2.6 Conclusie
+Op basis van voorgaande paragrafen kan geconcludeerd worden dat het invoeren van een knip in
+het noordelijk deel van de Van Woustraat een effectieve maatregel is om de autoluwe baten in de
+Van Woustraat te realiseren. De maatregel leidt echter ook tot omrijdbewegingen op het
+omliggende wegennet. Dit betreft een toename van verkeer op vooral het plusnet; de grootste
+toenames bevinden zich op de Stadhouderskade (S100) en Amsteldijk (S110).
+In dit onderzoek is geen rekening gehouden met een effect op de keuze van vervoerwijze. Er is
+uitgegaan van een gelijkblijvend gebruik van de auto ten opzichte van huidige situatie. Dit is een
+‘worst-case’ situatie benadering.
+De VMA analyse van knip in het noordelijk deel van de Van Woustraat zegt iets over de
+ontwikkeling van de verkeersintensiteiten op wegvak niveau door de maatregelen. Om het gevolg
+van deze maatregelen, en de ontwikkeling van de verkeersintensiteit, voor de doorstroming en de
+verkeersafwikkeling te beoordelen zijn voor de volgende kruispunten verkeerssimulaties
+uitgevoerd:
+m Stadhouderskade - Museumbrug
+m Stadhouderskade - Hobbemakade
+m Stadhoudersekade - Ferdinand Bolstraat
+m Stadhouderskade - Van Woustraat
+m Stadhouderskade - Hemonystraat
+m Stadhouderskade - Amsteldijk
+= Ceintuurbaan - Amsteldijk
+m Van Woustraat - Ceintuurbaan
+In hoofdstuk 3 van dit overdrachtsdocument wordt ingegaan op de resultaten van deze analyses.
+13
+Gemeente Amsterdam Versie definitief
+Programma Autoluw — Verkeer en Openbare Ruimte Versienummer 1.1
+
+25 september 2020
+Rapportage VMA & VISSIM — Circulatiemaatregelen Van Woustraat
+3 Verkeerssimulatie (VISSIM)
+VISSIM is de methodiek om op kruispuntniveau verkeersontwikkelingen te simuleren. Op basis
+van deze simulaties kan bepaald worden wat de verkeersintensiteit voor een kruispunt(regeling)
+voor gevolgen heeft en of dit tot onveilige of onwenselijke situaties leidt. In kader van de
+voorgestelde maatregelen van de gemeente is een aantal kruisingen en bijbehorende scenario's
+gesimuleerd om onderzoek te doen naar de effecten van deze maatregelen op de doorstroming en
+verkeersafwikkeling.
+3.1 Toelichting VISSIM t.o.v. VMA
+In het vorige hoofdstuk is het verkeersmodel Amsterdam toegelicht. Een VMA onderzoek wordt,
+indien nodig, vervolgd door een VISSIM onderzoek om de gevolgen van de verkeersintensiteiten
+op kruispuntniveau te analyseren. Het is belangrijk onderscheid te maken tussen de doelstellingen
+van deze studies. Bij de resultaten van een VMA onderzoek richten wij ons op de
+etmaalintensiteiten. Deze intensiteiten zeggen iets over de algehele effecten op een straat waar
+bijvoorbeeld de verkeersintensiteit toeneemt. Deze etmaalintensiteiten zijn o.a. de input voor
+geluids- en luchtkwaliteitseffecten.
+Bij het vitvoeren van de kruispuntsimulaties met VISSIM wordt juist het moment van de dag
+bekeken wanneer de kruisingen het drukste zijn; de maatgevende verkeersintensiteit.
+Logischerwijs is dit over het algemeen een spits; in dit project is specifiek de avondspits
+maatgevend gebleken. De betreffende spitsintensiteiten worden overgenomen uit het
+verkeersmodel Amsterdam (VMA). Deze intensiteiten worden vervolgens per kruispunt voor alle
+modaliteiten gedetailleerd over de verschillende opstelstroken verdeeld. De aantallen en
+intensiteiten per opstelstrook zegt geenszins iets over de algehele intensiteit of effecten op
+straatniveau.
+In dit onderzoek heeft een aanvullende toets plaatsgevonden tussen de spitsintensiteiten uit de
+referentievariant van het VMA model en de aantallen die bij verschillende kruispunten geteld zijn
+(data vit aanmeldlussen). Op basis van zowel VMA data en tellingen is een nieuwe ‘beste
+inschatting’ gemaakt voor de spitsintensiteiten. Op deze manier wordt op de strengst mogelijke
+manier beoordeeld of en hoe de kruispunten de toename in verkeersintensiteit kunnen verwerken
+zonder dat dit de doorstroming onacceptabel beperkt.
+14
+Gemeente Amsterdam Versie definitief
+Programma Autoluw — Verkeer en Openbare Ruimte Versienummer 1.1
+25 september 2020
+
+Rapportage VMA & VISSIM — Circulatiemaatregelen Van Woustraat
+3.2 Toelichting kruispuntsimulaties
+In de kruispuntsimulaties die met VISSIM zijn vitgevoerd wordt onderzoek gedaan naar de
+effecten van verkeersontwikkeling op de wachtrijen, regelbaarheid en reistijdverschillen bij en
+tussen verschillende kruispunten.
+3.2.1 Verkeersregeling
+
+S— @0O0
+
+7 ®o0
+008 —”
+Figuur 7 - Schematische weergave verkeersregeling
+Een verkeersregeling wil zeggen dat een kruispunt ‘georganiseerd’ wordt met behulp van
+verkeerslichten. De aansturing van de verkeerslichten, de verkeersregeling, is een soort schema
+dat bepaalt wanneer en hoelang welke richting of modaliteit groen heeft en wanneer rood. Voor
+verschillende modaliteiten en richtingen gelden (rand)voorwaarden waaraan voldaan moet
+worden met oog op de veiligheid en de regelbaarheid van de kruising.
+Voorbeeld: een groep fietsers moet voldoende groentijd hebben om, nadat het verkeerslicht op groen
+is gegaan, de kruising over te steken. Een groep automobilisten mag daarentegen in deze situatie niet
+tegelijkertijd groen hebben als dit tot onveilige situaties leidt. Een groep automobilisten dat geen
+conflict heeft met de groep fietsers, d.w.z. zij komen elkaar op de kruising niet tegen, kan tegelijkertijd
+met de fietsers wel groen hebben.
+Op basis van dit soort scenario’s wordt een regeling ontworpen en is een kruispunt regelbaar. Er
+zijn situaties denkbaar waarbij de verkeersintensiteiten of aantal (conflicterende) verkeersstromen
+dusdanig groot zijn dat het niet mogelijk is een regeling te ontwerpen en een kruispunt als
+onregelbaar wordt beoordeeld. Dit kan betekenen dat er onderzocht wordt of een fysieke ingreep
+voldoende capaciteit/regelbaarheid toevoegt, of dat de verkeersintensiteit onacceptabel is. Op
+deze manier ontstaat een iteratiefproces om tot een oplossing te komen.
+Een verkeersregeling, een kruispunt, wordt regelbaar geacht als de gemiddelde verliestijden niet
+boven de grenswaarden vitkomen?. De verliestijd is de tijd die verloren gaat, bij het passeren van
+het kruispunt, door optrekken en/of afremmen; ofwel het verschil tussen de tijd die een
+ongehinderde passage kost en de tijd die het werkelijk kost het kruispunt te passeren. Daarnaast
+? Zoals opgenomen in het Beleidskader hoofdnetten
+15
+Gemeente Amsterdam Versie definitief
+Programma Autoluw — Verkeer en Openbare Ruimte Versienummer 1.1
+
+25 september 2020
+Rapportage VMA & VISSIM — Circulatiemaatregelen Van Woustraat
+wordt er gestreefd de wachttijden te minimaliseren. De wachttijd is de tijd die ‘verloren’ gaat op
+het moment dat iemand volledig stilstaat.
+3.2.2 Wachtrijen
+8 | | OO, OC, Gen Gen 8
+Figuur 8 - Schematische weergave wachtrij
+Een wachtrij is de rij voertuigen die ontstaat bij een roodlicht in een verkeersregeling. In een
+VISSIM analyse worden deze wachtrijen gesimuleerd voor de piek tijdens het drukste moment van
+de dag (bijvoorbeeld de piek van de avondspits) en onderzocht of de verkeersregeling de
+wachtrijen die ontstaan kan afwikkelen en niet terugslaat op een vorige kruising. Bij een te hoge
+intensiteit of te korte groenlicht periode voor de verkeersintensiteit kan de situatie ontstaan dat
+een wachtrij onvoldoende afneemt. Dit kan tot de onwenselijke situatie leiden dat een wachtrij
+zolang wordt dat deze de volgende kruising blokkeert. Dit is een onveilige en daarmee
+onacceptabele situatie. Een kruispunt(regeling) moet dan iteratief aangepast worden tot dat de
+situatie acceptabel is.
+3.2.3 Reistijdverschillen/doorstroming
+Figuur g - Schematische weergave reistijdverschillen
+Op basis van een verkeerssimulatie wordt informatie ingewonnen over doorstroming, reistijden en
+reistijdverschillen in verschillende scenario's. Een combinatie van een bepaalde
+verkeersintensiteit, maximaal toegestane snelheid en één of meerdere kruisingen met specifieke
+verkeersregelingen kan iets zeggen over de tijd die het kost om over een traject van A naar B te
+komen.
+Dit kan bijvoorbeeld beoordelen of een traject nog voldoende doorstroming heeft met
+verschillende intensiteiten, maar ook of de capaciteit van een wegvak voldoende is met één of
+twee rijstroken. Op deze manier kan in deze studie dus iets gezegd worden over de realisatie van
+de autoluwe baten op bijvoorbeeld de Prins Hendrikkade.
+Daarnaast kan een maatregel en bijbehorende aanpassingen aan kruisingen en regelingen positief
+uitpakken voor de weggebruikers, bijvoorbeeld voor een busverbinding uit het ov-netwerk.
+16
+Gemeente Amsterdam Versie definitief
+Programma Autoluw — Verkeer en Openbare Ruimte Versienummer 1.1
+25 september 2020
+
+Rapportage VMA & VISSIM — Circulatiemaatregelen Van Woustraat
+
+3-3 Uitgangspunten VISSIM
+
+Voor het vitvoeren van de verkeerssimulatie gelden de volgende uitgangspunten:
+
+m De huidige auto verkeersintensiteiten zijn in kaart gebracht met behulp van tellingen vit de
+kruispunten (verkeersregelinstallaties), aangevuld met intensiteit inschattingen van Tomtom.
+De onderverdeling naar de modaliteiten auto, taxi en vrachtverkeer is conform de uitkomsten
+van de VMA-studie. Voor de referentievariant 2018 zijn deze intensiteiten gecorrigeerd voor de
+verwachte effecten van de maatregelen bij de Museumbrug en de Sarphatistraat;
+
+m Voorde auto verkeersintensiteit in de maatregelvariant 2018 is uitgegaan van de referentie
+intensiteit plus de verschuivingen in autoverkeer zoals gemodelleerd in VMA;
+
+m Voorde referentie- en maatregelvariant 2030 zijn de 2018 intensiteit opgehoogd conform de in
+VMA gemodelleerde intensiteitsontwikkeling;
+
+= In de beoordeling van de verkeersintensiteiten vit het VMA model, en dan specifiek de
+ochtendspits en avondspits, is de avondspits (twee uur durend) als maatgevend beoordeeld;
+
+m Voor de overige modaliteiten geldt de standaard VISSIM invoer zoals die standaard in VISSIM
+analyses wordt aangenomen;
+
+m Voor de inrichting van het kruispunt Stadhouderskade-Van Woustraat is uitgegaan van het
+ontwerp aangeleverd door het project.
+
+De volgende kruispunten zijn voor deze studie gesimuleerd:
+
+et uee «fn rr
+hj AMSTEL © a 3
+Onderzoeksgebied 1: ‘west’ VELDE 1 %
+ä à
+Bo, Ze Onderzoeksgebied 2: ‘oost’
+. À p
+58. “Cp FREDES \
+_ Ny SLEIN
+2
+NM 2% 4
+ES KHANS ”
+586 9 528
+© O7 527 KE
+OR SIN-GR1 26 , 7
+LEUM 591 KAD VSEEGRACHT—SS A
+EIN r Â
+© r
+5 Ĳ
+ù eN
+m
+z ra
+P ct
+5
+D ‚ Se
+me m AN
+» SARPHATI el
+ze PARK €
+pf 4
+
+OF Z zuur y Se
+« Reguliere verkeerslichten IE, GEÏN Z j
+a a
+— _ Langzaam verkeer oversteek Oo
+
+Figuur 20 - overzicht kruispunt simulaties en onderzoeksgebieden 1 & 2; ‘west’ en ‘oost’
+
+17
+Gemeente Amsterdam Versie definitief
+Programma Autoluw — Verkeer en Openbare Ruimte Versienummer 1.1
+25 september 2020
+
+Rapportage VMA & VISSIM — Circulatiemaatregelen Van Woustraat
+
+3-4 Onderzoek
+
+Het onderzoek is verdeeld in twee onderzoeksgebieden: onderzoeksgebied 1 en 2, zie ook Figuur
+
+10. Deze twee onderzoeksgebieden zijn in samenspraak met elkaar gemodelleerd. De
+
+intensiteiten waarmee beide gebieden worden gevoed komen op dezelfde manier tot stand.
+
+Aangezien de analyse van simulatiegegevens veel tijd kan kosten zijn er grofweg drie detailniveaus
+
+te onderscheiden waarop een kruispunt te onderzoeken is:
+
+1 Simulatie met detailanalyse van verliestijden en wachtrijlengte per richting en
+voertuigcategorie
+
+2 Simulatie met analyse van wachtrijlengte autoverkeer op doorgaande richting
+
+3 Kwalitatieve analyse aan de hand van simulatievisualisatie
+
+De kruispunten vit Figuur 10 zijn voornamelijk op detailniveau 1 en 2 onderzocht.
+
+3.4.1 Onderzoeksgebied 1: ‘west’
+
+Onderzoeksgebied 1 gaat om het gebied/traject ten westen van de Van Woustraat en focust zich
+
+op de aansluiting van de Stadhouderskade met de Hobbemakade. In onderzoeksgebied 1 zijn
+
+gewijzigde verkeersregelingen onderzocht om wijzigingen in het verkeersaanbod op te kunnen
+vangen.
+
+Onderzoeksgebied 1 kent één duidelijk knelpunt: de doorstroming op de Stadhouderskade. Op de
+
+Stadhouderskade is, in de referentie situatie, onvoldoende capaciteit van oost naar west bij het
+
+kruispunt met de Hobbemakade (kruispunt 5go). Met de verwachte autonome groei (referentie
+
+2030) zal dit knelpunt worden versterkt.
+
+De knip in het noordelijk deel van de Van Woustraat verschuift verkeer richting de Hobbemakade:
+
+de linksaffer de Stadhouderskade op wordt drukker en rechtdoor op de Stadhouderskade van oost
+
+naar west neemt juist af. Met een paar wijzigingen in de verkeersregelingen van de kruispunten bij
+de Museumbrug en Hobbemakade is het mogelijk om de gevolgen van de knip van Woustraat
+voldoende af te vangen in dit onderzoeksgebied, zowel voor de huidige situatie als in de toekomst
+
+(2030). De volgende wijzigingen in de verkeersregelingen worden voorgesteld:
+
+1 Verkeersregeling Museumbrug (589) — groentijden: sinds de aanpassing van het Leidseplein
+rijdt er minder autoverkeer vanaf de Museumbrug. Door een klein deel van deze groentijd toe te
+delen aan de Stadhouderskade zal de koppeling beter functioneren.
+
+2 Verkeersregeling Hobbemakade (590) — optimalisaties: met betrekking tot het meeverlengen
+van autoverkeer en voetgangers is er in deze verkeersregeling nog verbetering mogelijk in de
+efficiëntie. Meeverlengen is mogelijk bij verkeersstromen die geen conflict met elkaar hebben,
+oftewel elkaar niet op de kruising kunnen tegenkomen. Het betekent dat deze stromen
+tegelijkertijd groen kunnen krijgen. Door de meeverlengtijd van verschillende stromen beter op
+elkaar af te stemmen wordt een verkeersregeling zo goed mogelijk ingericht met als gevolg
+bijvoorbeeld meer groentijd voor een andere verkeersstroom wat de doorstroming verbetert.
+
+Deze aanpassingen zijn relatief simpel vit te voeren en hebben ook al een positief effect als ze op
+
+korte termijn worden gerealiseerd. Aanvullend ligt er hier een kans om de verkeersafwikkeling
+
+verder te verbeteren door gebruik te maken van de nieuwe detectielussen bij de Museumbrug
+
+18
+Gemeente Amsterdam Versie definitief
+Programma Autoluw — Verkeer en Openbare Ruimte Versienummer 1.1
+25 september 2020
+
+Rapportage VMA & VISSIM — Circulatiemaatregelen Van Woustraat
+
+richting het westen.
+
+3.4.2 Onderzoeksgebied 2: ‘oost’
+
+De focus van dit onderzoeksgebied ligt op de Van Woustraat en het direct omliggende wegennet.
+
+Voor onderzoeksgebied 2 zijn vanwege de knip in de van Woustraat en de Hemonystraat nieuwe
+
+schetsontwerpen gemaakt die aan sluiten bij de nieuwe verkeersstromen. Daarnaast is er een
+
+profielwijziging bedacht om de verkeersdruk bij de Ceintuurbaan op te vangen.
+
+Door de knip in het noordelijk deel van de Van Woustraat wijzigt het verkeersontwerp van het
+
+kruispunt Stadhouderskade - van Woustraat (kruispunt 526). Voor dit kruispunt is een volledig
+
+nieuwe verkeersregeling ontworpen. Bij de andere kruispunten zijn parameters van de bestaande
+
+verkeersregeling aangepast; dit geldt voor de kruispunten Stadhouderskade-Hemonystraat (527)
+
+en Stadhoudersekade-Amsteldijk (528) (plus de kruispunten Stadhouderskade-Museumbrug (589)
+
+en Stadhouderskade-Hobbemakade (590) vit onderzoeksgebied 1).
+
+De analyse van onderzoeksgebied 2 laat in de huidige situatie (referentie) al lange wachtrijvorming
+
+zien op, met name, de Stadhouderskade. Deze wachtrijen zijn dusdanig lang dat een risico op
+
+blokkades van de kruisingen aanwezig is. Uit de simulatie blijkt dat de kruispunten de
+verkeersstroom, zonder de knip in het noordelijk deel van de Van Woustraat, onvoldoende kunnen
+verwerken. Uitgaande van de autonome groei voor 2030 betekent dit dat deze risico’s versterkt
+zullen worden.
+
+De effecten van de circulatiemaatregel (knip in het noordelijk deel van de Van Woustraat) zijn
+
+tweeledig: de knip leidt tot een verplaatsing van de verkeersstromen, maar levert ook een
+
+verbeterde afrijdcapaciteit op de Stadhouderskade. Dit laatste komt omdat er minder afslaand
+verkeer is. Verkeer kan immers vanaf de Stadhouderskade niet meer de Van Woustraat in en vice
+versa. Door nieuwe verkeersregelingen te ontwerpen die hier op inspelen is het mogelijk om tot
+kortere wachtrijen voor autoverkeer en kortere verliestijden voor langzaam verkeer te komen dan
+in de huidige situatie. Het maatregelenpakket dat wordt voorgesteld is uitgesplitst per kruispunt:
+
+1 Ceintuurbaan — Amsteldijk (kruispunt 529): bij de Ceintuurbaan is een verlenging van het
+opstelvak nodig tot een lengte van 60 meter. Op de overige richtingen zijn geen wijzigingen
+noodzakelijk.
+
+2 Stadhouderskade — van Woustraat (kruispunt 526): deze wordt vanwege de knip aangepast.
+De wijzigingen zorgen dat het kruispunt overzichtelijker wordt en er ontstaan nieuwe opties om
+verkeer te regelen:
+
+-_Op de noord-zuid as verdwijnt de situatie met tegelijk groenlicht voor afslaand verkeer
+met rechtdoor gaand verkeer (deelconflict). Hierdoor kan het kruispunt op een manier die
+beter doorstroomt meer verkeer verwerken en wordt het kruispunt veiliger. Alleen het
+deelconflict tussen rechtsaf slaande auto’s en doorgaande fiets/voetganger op de
+Stadhouderskade (verkeer vanuit het oosten) blijft bestaan.
+
+-_Het rechtsafvak vanuit het westen van de Stadhouderskade naar de van Woustraat moet
+benut worden om de doorstroming naar het oosten te verbeteren en de extra doorgaande
+verkeersstroom als gevolg van de knip te kunnen verwerken.
+
+19
+Gemeente Amsterdam Versie definitief
+Programma Autoluw — Verkeer en Openbare Ruimte Versienummer 1.1
+
+25 september 2020
+Rapportage VMA & VISSIM — Circulatiemaatregelen Van Woustraat
+
+-__Er ontstaat ruimte in de verkeersregeling voor een koppeling met een kortere cyclustijd,
+oftewel regelmatiger een periode van groen licht voor de verschillende richtingen en
+weggebruikers. Hierdoor wordt de tijd die verloren gaat het remmen en/of optrekken, de
+verliestijden, korter.
+
+-_ Vanuit het oosten op de Stadhouderskade is het nu verboden om linksaf de Van
+Woustraat in te slaan. Dit wordt in de praktijk wel gedaan en leidt tot opstoppingen of
+zelfs onveilige situaties. De knip maakt dit onmogelijk en verbetert hiermee de
+afrijcapaciteit (voorkomt de opstoppingen) en vooral de verkeersveiligheid.
+
+Stadhouderskade — Hemonystraat (kruispunt 527): een onderdeel van de maatregel knip in het
+noordelijk deel van de Woustraat, is het knippen van de Hemonystraat met de
+Stadhouderskade. Het verminderen van het aantal afslaande bewegingen op de
+Stadhouderskade draagt bij aan de afname van kans op blokkades op dit kruispunt — de
+doorstroming. In praktijk betekent dit dat het kruispunt aan de zuidkant wordt dicht gezet voor
+autoverkeer. Incidenteel mag zwaar vrachtverkeer via de Hemonystraat uitrijden in verband
+met laden en lossen. Deze uitzondering speelt in de totale verkeersafwikkeling geen rol.
+
+Op de aansluiting van de Stadhouderskade met Oosteinde (ook kruispunt 527) zijn op dit
+moment alle afslaande bewegingen mogelijk. Met name de linksaf beweging van de
+Stadhouderskade west naar het Oosteinde heeft in potentie invloed op de doorstroming op de
+Stadhouderkade. Uit de beschikbare informatie lijkt deze linksaf beweging nauwelijks voor te
+komen en is het risico op vertraging in de doorstroming als gevolg hiervan beperkt; de
+gevoeligheid voor deze afslaande beweging is echter groot. Het advies is om in de volgende
+projectfase voorzichtigheidshalve het aantal afslaande auto's met tellingen nauwkeuriger in
+kaart te brengen en als de intensiteit op de betreffende linksaf beweging toch duidelijker hoger
+blijkt, te overwegen of aanvullende maatregelen voor het beperken van afslaand verkeer vanaf
+de Stadhouderskade west naar het Oosteinde noodzakelijk zijn.
+Op basis van bovenstaand uitgangspunt wordt de bereikbaarheid van De Nederlandsche Bank
+(DNB) t.o.v. de referentiesituatie niet beperkt. Onder andere de garage onder het DNB gebouw
+aan het Oosteinde is vanuit meerdere richting aan en af te rijden. De aanbeveling is om in de
+volgende projectfase, tijdens het in kaart brengen van de intensiteiten op de verschillende
+richtingen, rekening te houden met de ontwikkelingen rondom DNB en het Frederiksplein. Ook
+uitgaande van deze ontwikkelingen moet worden voldaan aan het vitgangspunt van een veilige
+kruising van de Stadhouderskade met de Hemonystraat en Oosteinde waar de doorstroming is
+geborgd.
+Gm ei @ en
+gs
+3
+Figuur a1 - Kruispuntrichtingen rondom Stadhouderskade, Hemonystraat en Oosteinde. Richting met
+oranje pijlpunt is gevoelig voor de doorstroming.
+20
+Gemeente Amsterdam Versie definitief
+Programma Autoluw — Verkeer en Openbare Ruimte Versienummer 1.1
+
+25 september 2020
+Rapportage VMA & VISSIM — Circulatiemaatregelen Van Woustraat
+3.4.3 Sluipverkeer
+Op praktisch alle kruispunten in de onderzoeksgebieden leidt het maatregelenpakket tot een
+verbetering van de doorstroming. Op het kruispunt Ceintvurbaan-Amsteldijk nemen de rijtijden
+echter beperkt toe. Om die reden is onderzocht wat het risico is op sluipverkeer door de Oude Pijp
+als gevolg van de beperkte extra rijtijd bij deze kruising. Voor deze analyse is gebruik gemaakt van
+actuele reistijden op basis van Tomtom en een microsimulatie van de toekomstige situatie op dit
+traject (VISSIM). Van de Ceintuurbaan naar de Torontobrug is in de huidige situatie de route via de
+Amsteldijk 5o seconden sneller dan een route via de Tweede Jan Steenstraat. Als gevolg van het
+extra verkeer op de kruising Amsteldijk-Ceintuurbaan neemt de rijtijd via de Amsteldijk met 2
+seconde toe. De route via de Amsteldijk blijft dus ook in de nieuwe situatie veel aantrekkelijker
+dan een route binnendoor. In de omgekeerde richting van de Torontobrug naar de Ceintuurbaan is
+in de huidige situatie de route via de Amsteldijk „o seconden sneller dan de routes via de Tweede
+Jan van der Heijdenstraat of de Govert Flinckstraat. Als gevolg van het extra verkeer op de kruising
+Amsteldijk-Ceintuurbaan neemt de rijtijd via de Amsteldijk met 6 seconde toe. De route via de
+Amsteldijk blijft dus ook in de nieuwe situatie veel aantrekkelijker dan een route binnendoor. In
+een reguliere avondspits onder normale omstandigheden is dus geen risico op sluipverkeer door
+de Oude Pijp.
+3-5 Conclusie
+Op basis van de gedane simulaties en onderzoek kan geconcludeerd worden dat de verplaatsing
+van het verkeer door de circulatiemaatregel in de Van Woustraat, als het volledige
+maatregelenpakket wordt doorgevoerd, kan worden verwerkt. Met het pakket van zowel fysieke
+aanpassingen, als aanpassingen in de verkeersregelingen, is het mogelijk een verbeterde
+verkeersafwikkeling te realiseren. Ondanks dat er op een aantal wegen meer verkeer wordt
+verwacht, draagt de vermindering van afslaand verkeer en het doorvoeren van optimalisaties in de
+verkeersregelingen dusdanig bij aan de doorstroming dat de nieuwe situatie een verbetering is ten
+opzichte van de huidige situatie. Volgens de modellen is de nieuwe situatie toekomstbestendig
+voor de beleidsarme (volgens worst case benadering) gemodelleerde situatie in 2030.
+Met de nieuwe inrichting van het kruispunt Stadhouderskade-Van Woustraat wordt ook de
+verkeersveiligheid verbeterd.
+21
+

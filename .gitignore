@@ -4,6 +4,7 @@
 *.csv
 *.txt
 *.html
+*.pdf
 
 # Geo data
 *.gml
